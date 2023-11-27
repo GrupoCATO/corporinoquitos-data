@@ -9,7 +9,7 @@
                         "title": "Conoce la corporación",
                         "description": "",
                         "background_image": "contents/sections/background/Conoce_la_corporación__-_Sección_Contenido_NU34JnC.png",
-                        "format_image": null,
+                        "format_image": "contents/sections/Membrete_-_Resultado.png",
                         "color_section": "#FFFFFFFF",
                         "color_post": "#FFFFFFFF",
                         "title_section_color": "#000000FF",
@@ -923,7 +923,7 @@
                         "title": "Ecosistemas Vivos",
                         "description": "",
                         "background_image": "contents/sections/background/Ecosistemas_vivos_-_Sección_Contenido_ErTLE5v.png",
-                        "format_image": null,
+                        "format_image": "contents/sections/Membrete_-_Resultado_Dwe94m4.png",
                         "color_section": "#FFFFFFFF",
                         "color_post": "#FFFFFFFF",
                         "title_section_color": "#000000FF",
@@ -954,7 +954,20 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "23/11/2023 16:44",
-                                "calendar_date": "24/11/2023 17:28",
+                                "calendar_date": "27/11/2023 11:40",
+                                "gallery": [
+                                    {
+                                        "id": 3,
+                                        "slug": "toto",
+                                        "title": "toto",
+                                        "type": "VR",
+                                        "online_url": null,
+                                        "offline_url": null,
+                                        "video_url": null,
+                                        "image": "contents/post_gallery/Captura_desde_2023-11-22_17-01-37.png",
+                                        "weight": 213727
+                                    }
+                                ],
                                 "teacher": "contents/icon_post/2._Guia_Docente_-_Nuestros_ecosistemas.pdf",
                                 "student": "contents/icon_post/3._Guia_Estudiante_-_Nuestros_ecosistemas.pdf",
                                 "metadata": "contents/metadata/4._Metadatos_-_Nuestros_ecosistemas.pdf",
@@ -1793,7 +1806,7 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 2048672
+                                "pill_size": 2262399
                             }
                         ]
                     },
@@ -1801,7 +1814,7 @@
                         "title": "Cuencas Vivas",
                         "description": "",
                         "background_image": "contents/sections/background/Aguas_limpias_y_cuencas_vivas_-_Sección_Contenido.png",
-                        "format_image": null,
+                        "format_image": "contents/sections/Membrete_-_Resultado_4s7k8rZ.png",
                         "color_section": "#FFFFFFFF",
                         "color_post": "#FFFFFFFF",
                         "title_section_color": "#000000FF",
@@ -1832,7 +1845,20 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "25/11/2023 10:07",
-                                "calendar_date": "25/11/2023 12:11",
+                                "calendar_date": "27/11/2023 11:44",
+                                "gallery": [
+                                    {
+                                        "id": 4,
+                                        "slug": "ney-gocero",
+                                        "title": "ney gocero",
+                                        "type": "VR",
+                                        "online_url": null,
+                                        "offline_url": null,
+                                        "video_url": null,
+                                        "image": "contents/post_gallery/Imagen_13.png",
+                                        "weight": 292840
+                                    }
+                                ],
                                 "teacher": "contents/icon_post/2._Guia_Docente_-_Aguas_limpias_y_cuencas_vivas.pdf",
                                 "student": "contents/icon_post/3._Guia_Estudiante_-_Aguas_limpias_y_cuencas_vivas.pdf",
                                 "metadata": "contents/metadata/4._Metadatos_-_Aguas_limpias_y_cuencas_vivas.pdf",
@@ -1849,7 +1875,7 @@
                                         "size": 0
                                     },
                                     {
-                                        "title": "INTRODUCCIÓN (Bienvenida).",
+                                        "title": "INTRODUCCIÓN (Bienvenida)",
                                         "content": "<p style=\"text-align:justify\">&iexcl;Hola!... Sean todos bienvenidos al contenido tem&aacute;tico &ldquo;Cuencas Vivas&rdquo;, aqu&iacute; podr&aacute;n encontrar todo lo relacionado con cuencas hidrogr&aacute;ficas, es decir, su definici&oacute;n, sus clasificaciones, su normativa, los servicios ecosistemicos y la importancia que representa cuidar este recurso h&iacute;drico que tambi&eacute;n beneficia a los dem&aacute;s recursos naturales (suelo, aire, fauna y flora) en los ecosistemas.</p>",
                                         "slug": "cuencas-vivas-slide-2",
                                         "type": "2",
@@ -1874,9 +1900,21 @@
                                                 "video_url": null,
                                                 "image": "media/archive/Imagen1.jpg",
                                                 "weight": 48442
+                                            },
+                                            {
+                                                "id": "34",
+                                                "id_pill": "93",
+                                                "slug": "cuenca-hidrografica-2",
+                                                "title": "Cuenca Hidrográfica 2",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/Imagen2_c54EkPU.jpg",
+                                                "weight": 18013
                                             }
                                         ],
-                                        "size": 48442
+                                        "size": 66455
                                     },
                                     {
                                         "title": "DESARROLLO TMÁTICO (PARTES DE UNA CUENCA HIDROGRÁFICA)",
@@ -1884,7 +1922,21 @@
                                         "slug": "cuencas-vivas-slide-4",
                                         "type": "2",
                                         "type_comic": "0",
-                                        "size": 0
+                                        "gallery": [
+                                            {
+                                                "id": "35",
+                                                "id_pill": "94",
+                                                "slug": "que-es-una-cuenca-hidrografica",
+                                                "title": "¿Qué es una cuenca hidrográfica?",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/Imagen3_aGjk1Yx.jpg",
+                                                "weight": 44908
+                                            }
+                                        ],
+                                        "size": 44908
                                     },
                                     {
                                         "title": "DESARROLLO TEMÁTICO (SERVICIOS ECOSISTÉMICOS EN UNA CUENCA)",
@@ -1892,7 +1944,21 @@
                                         "slug": "cuencas-vivas-slide-5",
                                         "type": "2",
                                         "type_comic": "0",
-                                        "size": 0
+                                        "gallery": [
+                                            {
+                                                "id": "36",
+                                                "id_pill": "95",
+                                                "slug": "proyeccion-social",
+                                                "title": "Proyección social",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/Imagen4_o4XrXYf.jpg",
+                                                "weight": 104384
+                                            }
+                                        ],
+                                        "size": 104384
                                     },
                                     {
                                         "title": "DESARROLLO TEMÁTICO (CUENCAS HIDROGRÁFICAS DE COLOMBIA)",
@@ -1912,9 +1978,21 @@
                                                 "video_url": null,
                                                 "image": "media/archive/Imagen5_7LtkBAR.jpg",
                                                 "weight": 52119
+                                            },
+                                            {
+                                                "id": "38",
+                                                "id_pill": "96",
+                                                "slug": "mapa-de-la-jurisdiccion",
+                                                "title": "Mapa de la Jurisdicción",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/Imagen6_ASvKHyf.png",
+                                                "weight": 347076
                                             }
                                         ],
-                                        "size": 52119
+                                        "size": 399195
                                     },
                                     {
                                         "title": "DESARROLLO TEMÁTICO (PLANES ESTRATÉGICOS DE MACROCUENCA)",
@@ -2617,7 +2695,7 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 2337736
+                                "pill_size": 3144957
                             }
                         ]
                     },
@@ -2625,7 +2703,7 @@
                         "title": "Comunidades Indígenas",
                         "description": "",
                         "background_image": "contents/sections/background/Comunidades_Indigenas_-_Sección_Contenido.png",
-                        "format_image": null,
+                        "format_image": "contents/sections/Membrete_-_Resultado_EZAWFyF.png",
                         "color_section": "#FFFFFFFF",
                         "color_post": "#FFFFFFFF",
                         "title_section_color": "#000000FF",
@@ -2651,7 +2729,7 @@
                         "title": "Gestión de Residuos",
                         "description": "",
                         "background_image": "contents/sections/background/Gestión_integral_de_residuos_-_Sección_Contenidos.png",
-                        "format_image": null,
+                        "format_image": "contents/sections/Membrete_-_Resultado_miI27Qe.png",
                         "color_section": "#FFFFFFFF",
                         "color_post": "#FFFFFFFF",
                         "title_section_color": "#000000FF",
@@ -2677,7 +2755,7 @@
                         "title": "Amenazas Ambientales",
                         "description": "",
                         "background_image": "contents/sections/background/Amenazas_vulnerabilidades_y_cambio_climatico_-_Sección_Contenido.png",
-                        "format_image": null,
+                        "format_image": "contents/sections/Membrete_-_Resultado_ivbdKt8.png",
                         "color_section": "#FFFFFFFF",
                         "color_post": "#FFFFFFFF",
                         "title_section_color": "#000000FF",
@@ -2703,7 +2781,7 @@
                         "title": "Participación Ciudadana",
                         "description": "",
                         "background_image": "contents/sections/background/Participación_Ciudadana_-_Sección_Contenidos_gH2k2rQ.png",
-                        "format_image": null,
+                        "format_image": "contents/sections/Membrete_-_Resultado_oBCreBl.png",
                         "color_section": "#FFFFFFFF",
                         "color_post": "#FFFFFFFF",
                         "title_section_color": "#000000FF",
