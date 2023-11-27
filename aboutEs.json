@@ -1,0 +1,52 @@
+[
+        {
+            "page_metadata": {
+                "title": "Acerca de",
+                "description": "",
+                "slug": "acerca-de",
+                "sections": [
+                    {
+                        "title": "Acerca de",
+                        "description": "",
+                        "background_image": null,
+                        "format_image": null,
+                        "color_section": "#FFFFFFFF",
+                        "color_post": "#FFFFFFFF",
+                        "title_section_color": "#000000FF",
+                        "title_post_color": "#000000FF",
+                        "text_post_color": "#000000FF",
+                        "slug": "acerca-de",
+                        "component": null,
+                        "align": "RIGHT",
+                        "lines_to_show": "1",
+                        "title_visibility": true,
+                        "subtitle_visibility": false,
+                        "logo_visibility": "1",
+                        "tag_visibility": false,
+                        "description_visibility": false,
+                        "gallery_visibility": false,
+                        "scrollspy": false,
+                        "color_scrollspy": "#FFFFFFFF",
+                        "title_scrollspy": "#FFFFFFFF",
+                        "text_scrollspy": "#FFFFFFFF",
+                        "posts": [
+                            {
+                                "title": "Versión 1.0.",
+                                "subtitle": null,
+                                "description": "<p style=\"text-align:justify\">Corpo Exploradores es la aplicaci&oacute;n m&oacute;vil del proyecto de Sensibilizaci&oacute;n ambiental dirigida a la poblaci&oacute;n de primera infancia, nivel preescolar, Corporinoquitos, red de j&oacute;venes de ambiente y poblaci&oacute;n en general de los municipios de Tauramena, Monterrey y Aguazul, a trav&eacute;s de la implementaci&oacute;n, uso y apropiaci&oacute;n de herramientas innovadoras de interacci&oacute;n m&oacute;vil y tecnol&oacute;gica (Realidad Virtual (<strong>VR</strong>) y Realidad Aumentada (<strong>AR</strong>)) para fortalecer el conocimiento, cuidado y protecci&oacute;n del ambiente y los recursos naturales, en el marco del proyecto &quot;Fortalecimiento de la educaci&oacute;n y participaci&oacute;n ambiental en la jurisdicci&oacute;n de <strong>Corporinoquia</strong>&quot;.</p>\r\n\r\n<p style=\"text-align:justify\">Desde aqu&iacute; tendr&aacute;s acceso a componentes de realidad virtual (<strong>VR</strong>) y realidad aumentada (<strong>AR</strong>) para el autoaprendizaje interactivo de tem&aacute;ticas de Educaci&oacute;n Ambiental como gesti&oacute;n integral de residuos s&oacute;lidos, gesti&oacute;n integral, amenazas, vulnerabilidades y cambio climatico.</p>",
+                                "slug": "acerca-de",
+                                "image": null,
+                                "audio": null,
+                                "parent": null,
+                                "tags": [],
+                                "creation_date": "27/11/2023 16:46",
+                                "calendar_date": "27/11/2023 17:33",
+                                "pill_size": 0
+                            }
+                        ]
+                    }
+                ],
+                "project": null
+            }
+        }
+    ]
