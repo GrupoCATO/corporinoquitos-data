@@ -1,0 +1,52 @@
+[
+        {
+            "page_metadata": {
+                "title": "About",
+                "description": "",
+                "slug": "acerca-de",
+                "sections": [
+                    {
+                        "title": "About",
+                        "description": "",
+                        "background_image": null,
+                        "format_image": null,
+                        "color_section": "#FFFFFFFF",
+                        "color_post": "#FFFFFFFF",
+                        "title_section_color": "#000000FF",
+                        "title_post_color": "#000000FF",
+                        "text_post_color": "#000000FF",
+                        "slug": "acerca-de",
+                        "component": null,
+                        "align": "RIGHT",
+                        "lines_to_show": "1",
+                        "title_visibility": true,
+                        "subtitle_visibility": false,
+                        "logo_visibility": "1",
+                        "tag_visibility": false,
+                        "description_visibility": false,
+                        "gallery_visibility": false,
+                        "scrollspy": false,
+                        "color_scrollspy": "#FFFFFFFF",
+                        "title_scrollspy": "#FFFFFFFF",
+                        "text_scrollspy": "#FFFFFFFF",
+                        "posts": [
+                            {
+                                "title": "Version 1.0.0",
+                                "subtitle": null,
+                                "description": "<p style=\"text-align:justify\">Corpo Exploradores is the mobile application of the Environmental Awareness project aimed at the early childhood population, preschool level, Corporinoquitos, environmental youth network and general population of the municipalities of Tauramena, Monterrey and Aguazul, through the implementation, use and appropriation of innovative mobile and technological interaction tools (Virtual Reality (VR) and Augmented Reality (AR) to strengthen knowledge, care and protection of the environment and natural resources, under the project &quot;Virtual Reality (VR) and Augmented Reality (AR), use and appropriation of innovative tools of mobile and technological interaction (Virtual Reality (<strong>VR</strong>) and Augmented Reality (<strong>AR</strong>)) to strengthen the knowledge, care and protection of the environment and natural resources, within the framework of the project &quot;Strengthening of environmental education and participation in the jurisdiction of <strong>Corporinoquia</strong>&quot;.</p>\r\n\r\n<p style=\"text-align:justify\">From here you will have access to virtual reality (VR) components for interactive self-learning of environmental education topics such as integrated management of solid waste, integrated management, threats, vulnerabilities and climate change.</p>",
+                                "slug": "acerca-de",
+                                "image": null,
+                                "audio": null,
+                                "parent": null,
+                                "tags": [],
+                                "creation_date": "27/11/2023 16:46",
+                                "calendar_date": "27/11/2023 17:33",
+                                "pill_size": 0
+                            }
+                        ]
+                    }
+                ],
+                "project": null
+            }
+        }
+    ]
