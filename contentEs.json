@@ -6,7 +6,7 @@
                 "slug": "inicio",
                 "sections": [
                     {
-                        "title": "Conoce la corporación",
+                        "title": "Conoce la Corporación",
                         "description": "",
                         "background_image": "contents/sections/background/Conoce_la_corporación__-_Sección_Contenido_NU34JnC.png",
                         "format_image": "contents/sections/Membrete_-_Resultado.png",
@@ -1003,7 +1003,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "23/11/2023 16:44",
-                                "calendar_date": "28/11/2023 15:11",
+                                "calendar_date": "28/11/2023 17:34",
                                 "teacher": "contents/icon_post/2._Guia_Docente_-_Nuestros_ecosistemas.pdf",
                                 "student": "contents/icon_post/3._Guia_Estudiante_-_Nuestros_ecosistemas.pdf",
                                 "metadata": "contents/metadata/4._Metadatos_-_Nuestros_ecosistemas.pdf",
@@ -1053,6 +1053,7 @@
                                         "slug": "ecosistemas-vivos-slide-5",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 5,
                                         "size": 0
                                     },
                                     {
@@ -1061,7 +1062,22 @@
                                         "slug": "ecosistemas-vivos-slide-6",
                                         "type": "2",
                                         "type_comic": "0",
-                                        "size": 0
+                                        "order": 6,
+                                        "gallery": [
+                                            {
+                                                "id": "29",
+                                                "id_pill": "70",
+                                                "slug": "frailejones",
+                                                "title": "Frailejones",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/Imagen2.jpg",
+                                                "weight": 222987
+                                            }
+                                        ],
+                                        "size": 222987
                                     },
                                     {
                                         "title": "DESARROLLO TEMÁTICO (ESPECIES CARACTERÍSTICAS DE FLORA Y FAUNA: FLORA)",
@@ -1069,6 +1085,7 @@
                                         "slug": "ecosistemas-vivos-slide-7",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 7,
                                         "size": 0
                                     },
                                     {
@@ -1077,6 +1094,7 @@
                                         "slug": "ecosistemas-vivos-slide-8",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 8,
                                         "size": 0
                                     },
                                     {
@@ -1085,6 +1103,7 @@
                                         "slug": "ecosistemas-vivos-slide-9",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 9,
                                         "size": 0
                                     },
                                     {
@@ -1093,7 +1112,22 @@
                                         "slug": "ecosistemas-vivos-slide-10",
                                         "type": "2",
                                         "type_comic": "0",
-                                        "size": 0
+                                        "order": 10,
+                                        "gallery": [
+                                            {
+                                                "id": "30",
+                                                "id_pill": "74",
+                                                "slug": "bosque-andino",
+                                                "title": "Bosque Andino",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/Imagen3.jpg",
+                                                "weight": 142679
+                                            }
+                                        ],
+                                        "size": 142679
                                     },
                                     {
                                         "title": "DESARROLLO TEMÁTICO (ESPECIES CARACTERÍSTICAS DE FLORA Y FAUNA: FLORA)",
@@ -1101,6 +1135,7 @@
                                         "slug": "ecosistemas-vivos-slide-11",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 11,
                                         "size": 0
                                     },
                                     {
@@ -1109,6 +1144,7 @@
                                         "slug": "ecosistemas-vivos-slide-12",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 12,
                                         "size": 0
                                     },
                                     {
@@ -1117,6 +1153,7 @@
                                         "slug": "ecosistemas-vivos-slide-13",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 13,
                                         "size": 0
                                     },
                                     {
@@ -1125,7 +1162,22 @@
                                         "slug": "ecosistemas-vivos-slide-14",
                                         "type": "2",
                                         "type_comic": "0",
-                                        "size": 0
+                                        "order": 14,
+                                        "gallery": [
+                                            {
+                                                "id": "31",
+                                                "id_pill": "78",
+                                                "slug": "piedemonte",
+                                                "title": "Piedemonte",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/Imagen4.jpg",
+                                                "weight": 130434
+                                            }
+                                        ],
+                                        "size": 130434
                                     },
                                     {
                                         "title": "DESARROLLO TEMÁTICO (ESPECIES CARACTERÍSTICAS DE FLORA Y FAUNA: FLORA)",
@@ -1133,6 +1185,7 @@
                                         "slug": "ecosistemas-vivos-slide-15",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 15,
                                         "size": 0
                                     },
                                     {
@@ -1141,6 +1194,7 @@
                                         "slug": "ecosistemas-vivos-slide-16",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 16,
                                         "size": 0
                                     },
                                     {
@@ -1149,6 +1203,7 @@
                                         "slug": "ecosistemas-vivos-slide-17",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 17,
                                         "size": 0
                                     },
                                     {
@@ -1157,7 +1212,22 @@
                                         "slug": "ecosistemas-vivos-slide-18",
                                         "type": "2",
                                         "type_comic": "0",
-                                        "size": 0
+                                        "order": 18,
+                                        "gallery": [
+                                            {
+                                                "id": "32",
+                                                "id_pill": "82",
+                                                "slug": "sabana",
+                                                "title": "Sabana",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/Imagen5.jpg",
+                                                "weight": 17821
+                                            }
+                                        ],
+                                        "size": 17821
                                     },
                                     {
                                         "title": "DESARROLLO TEMÁTICO (ESPECIES CARACTERÍSTICAS DE FLORA Y FAUNA: FLORA)",
@@ -1165,6 +1235,7 @@
                                         "slug": "ecosistemas-vivos-slide-19",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 19,
                                         "size": 0
                                     },
                                     {
@@ -1173,6 +1244,7 @@
                                         "slug": "ecosistemas-vivos-slide-20",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 20,
                                         "size": 0
                                     },
                                     {
@@ -1181,6 +1253,7 @@
                                         "slug": "ecosistemas-vivos-slide-21",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 21,
                                         "size": 0
                                     },
                                     {
@@ -1189,6 +1262,7 @@
                                         "slug": "ecosistemas-vivos-slide-22",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 22,
                                         "size": 0
                                     },
                                     {
@@ -1197,6 +1271,7 @@
                                         "slug": "ecosistemas-vivos-slide-23",
                                         "type": "4",
                                         "type_comic": "0",
+                                        "order": 23,
                                         "question": {
                                             "id": "54",
                                             "question_type": "3",
@@ -1236,6 +1311,7 @@
                                         "slug": "ecosistemas-vivos-slide-24",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 24,
                                         "size": 0
                                     },
                                     {
@@ -1244,6 +1320,7 @@
                                         "slug": "ecosistemas-vivos-slide-25",
                                         "type": "4",
                                         "type_comic": "0",
+                                        "order": 25,
                                         "question": {
                                             "id": "56",
                                             "question_type": "7",
@@ -1283,6 +1360,7 @@
                                         "slug": "ecosistemas-vivos-slide-26",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 26,
                                         "size": 0
                                     }
                                 ],
@@ -1846,7 +1924,7 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 2048672
+                                "pill_size": 2562593
                             }
                         ]
                     },
@@ -1885,7 +1963,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "25/11/2023 10:07",
-                                "calendar_date": "27/11/2023 17:01",
+                                "calendar_date": "28/11/2023 17:39",
                                 "teacher": "contents/icon_post/2._Guia_Docente_-_Aguas_limpias_y_cuencas_vivas.pdf",
                                 "student": "contents/icon_post/3._Guia_Estudiante_-_Aguas_limpias_y_cuencas_vivas.pdf",
                                 "metadata": "contents/metadata/4._Metadatos_-_Aguas_limpias_y_cuencas_vivas.pdf",
@@ -1899,6 +1977,7 @@
                                         "slug": "cuencas-vivas-slide-1",
                                         "type": "1",
                                         "type_comic": "0",
+                                        "order": 1,
                                         "size": 0
                                     },
                                     {
@@ -1907,6 +1986,7 @@
                                         "slug": "cuencas-vivas-slide-2",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 2,
                                         "size": 0
                                     },
                                     {
@@ -1915,6 +1995,7 @@
                                         "slug": "cuencas-vivas-slide-3",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 3,
                                         "gallery": [
                                             {
                                                 "id": "33",
@@ -1949,6 +2030,7 @@
                                         "slug": "cuencas-vivas-slide-4",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 4,
                                         "gallery": [
                                             {
                                                 "id": "35",
@@ -1971,6 +2053,7 @@
                                         "slug": "cuencas-vivas-slide-5",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 5,
                                         "gallery": [
                                             {
                                                 "id": "36",
@@ -1993,6 +2076,7 @@
                                         "slug": "cuencas-vivas-slide-6",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 6,
                                         "gallery": [
                                             {
                                                 "id": "37",
@@ -2027,6 +2111,7 @@
                                         "slug": "cuencas-vivas-slide-7",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 7,
                                         "size": 0
                                     },
                                     {
@@ -2035,6 +2120,7 @@
                                         "slug": "cuencas-vivas-slide-8",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 8,
                                         "size": 0
                                     },
                                     {
@@ -2043,6 +2129,7 @@
                                         "slug": "cuencas-vivas-slide-9",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 9,
                                         "gallery": [
                                             {
                                                 "id": "39",
@@ -2055,9 +2142,21 @@
                                                 "video_url": null,
                                                 "image": "media/archive/Imagen7_ytWul0H.png",
                                                 "weight": 404974
+                                            },
+                                            {
+                                                "id": "40",
+                                                "id_pill": "99",
+                                                "slug": "zonificacion-pomca",
+                                                "title": "Zonificación POMCA",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/Imagen8_iVgDrpT.png",
+                                                "weight": 214595
                                             }
                                         ],
-                                        "size": 404974
+                                        "size": 619569
                                     },
                                     {
                                         "title": "DESARROLLO TEMÁTICO (PLAN DE ORDENAMIENTO DEL RECURSO HÍDRICO)",
@@ -2065,7 +2164,22 @@
                                         "slug": "cuencas-vivas-slide-10",
                                         "type": "2",
                                         "type_comic": "0",
-                                        "size": 0
+                                        "order": 10,
+                                        "gallery": [
+                                            {
+                                                "id": "41",
+                                                "id_pill": "100",
+                                                "slug": "plan-de-ordenamiento",
+                                                "title": "Plan de Ordenamiento",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/Imagen9_q0oockn.png",
+                                                "weight": 1229502
+                                            }
+                                        ],
+                                        "size": 1229502
                                     },
                                     {
                                         "title": "Cuencas Vivas - Ejercicio Práctico 1",
@@ -2073,6 +2187,7 @@
                                         "slug": "cuencas-vivas-slide-11",
                                         "type": "4",
                                         "type_comic": "0",
+                                        "order": 11,
                                         "question": {
                                             "id": "94",
                                             "question_type": "3",
@@ -2112,6 +2227,7 @@
                                         "slug": "cuencas-vivas-slide-12",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 12,
                                         "size": 0
                                     },
                                     {
@@ -2120,6 +2236,7 @@
                                         "slug": "cuencas-vivas-slide-13",
                                         "type": "4",
                                         "type_comic": "0",
+                                        "order": 13,
                                         "question": {
                                             "id": "96",
                                             "question_type": "3",
@@ -2159,6 +2276,7 @@
                                         "slug": "cuencas-vivas-slide-14",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 14,
                                         "size": 0
                                     }
                                 ],
@@ -2722,7 +2840,7 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 2852117
+                                "pill_size": 4296214
                             }
                         ]
                     },
