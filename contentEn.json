@@ -33,14 +33,14 @@
                             {
                                 "title": "Meet the corporation",
                                 "subtitle": null,
-                                "description": null,
+                                "description": "<p style=\"text-align:justify\">In the following section, the nature, jurisdiction, mission, vision, functions, as well as the regional environmental planning instruments and the institutional characters of Corporinoquia are concisely addressed.</p>",
                                 "slug": "conoce-la-corporacion",
                                 "image": "contents/banners/animated_logos/Conoce_la_corporación__-_Sección_Contenido.png",
                                 "audio": null,
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "22/11/2023 17:16",
-                                "calendar_date": "25/11/2023 12:01",
+                                "calendar_date": "28/11/2023 17:18",
                                 "teacher": "contents/icon_post/2._Guia_Docente_-_Conoce_la_corporación.pdf",
                                 "student": "contents/icon_post/3._Guia_Estudiante_-_Conoce_la_corporación.pdf",
                                 "metadata": "contents/metadata/4._Metadatos_-_Conoce_la_corporación.pdf",
@@ -54,6 +54,7 @@
                                         "slug": "conoce-la-corporacion-slide-1",
                                         "type": "1",
                                         "type_comic": "0",
+                                        "order": 1,
                                         "size": 0
                                     },
                                     {
@@ -62,6 +63,7 @@
                                         "slug": "conoce-la-corporacion-slide-2",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 2,
                                         "size": 0
                                     },
                                     {
@@ -70,6 +72,7 @@
                                         "slug": "conoce-la-corporacion-slide-3",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 3,
                                         "size": 0
                                     },
                                     {
@@ -78,6 +81,7 @@
                                         "slug": "conoce-la-corporacion-slide-4",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 4,
                                         "gallery": [
                                             {
                                                 "id": "15",
@@ -100,6 +104,7 @@
                                         "slug": "conoce-la-corporacion-slide-5",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 5,
                                         "gallery": [
                                             {
                                                 "id": "17",
@@ -136,9 +141,21 @@
                                                 "video_url": null,
                                                 "image": "media/archive/Imagen4.png",
                                                 "weight": 27816
+                                            },
+                                            {
+                                                "id": "19",
+                                                "id_pill": "56",
+                                                "slug": "corporinoquia-color",
+                                                "title": "Corporinoquia Color",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/Imagen7.png",
+                                                "weight": 16436
                                             }
                                         ],
-                                        "size": 38493
+                                        "size": 54929
                                     },
                                     {
                                         "title": "THEMATIC DEVELOPMENT (Mission and vision)",
@@ -146,6 +163,7 @@
                                         "slug": "conoce-la-corporacion-slide-6",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 6,
                                         "size": 0
                                     },
                                     {
@@ -154,6 +172,7 @@
                                         "slug": "conoce-la-corporacion-slide-7",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 7,
                                         "gallery": [
                                             {
                                                 "id": "20",
@@ -166,6 +185,17 @@
                                                 "video_url": null,
                                                 "image": "media/archive/Imagen8.png",
                                                 "weight": 499567
+                                            },
+                                            {
+                                                "id": "21",
+                                                "id_pill": "58",
+                                                "slug": "que-son-las-corporaciones-autonomas-regionales",
+                                                "title": "What are the regional autonomous corporations?",
+                                                "type": "VIDEO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": "https://www.youtube.com/watch?v=0DFsXjdN6YA",
+                                                "image": "media/archive/imagen_2023-11-22_181610584.png"
                                             }
                                         ],
                                         "size": 499567
@@ -176,6 +206,7 @@
                                         "slug": "conoce-la-corporacion-slide-8",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 8,
                                         "size": 0
                                     },
                                     {
@@ -184,6 +215,7 @@
                                         "slug": "conoce-la-corporacion-slide-9",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 9,
                                         "gallery": [
                                             {
                                                 "id": "22",
@@ -266,6 +298,7 @@
                                         "slug": "conoce-la-corporacion-slide-10",
                                         "type": "4",
                                         "type_comic": "0",
+                                        "order": 10,
                                         "question": {
                                             "id": "15",
                                             "question_type": "3",
@@ -305,6 +338,20 @@
                                         "slug": "conoce-la-corporacion-slide-11",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 11,
+                                        "gallery": [
+                                            {
+                                                "id": "28",
+                                                "id_pill": "62",
+                                                "slug": "induccion-de-coporinoquia",
+                                                "title": "Coporinoquia Induction",
+                                                "type": "VIDEO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": "https://www.youtube.com/watch?v=iaFM3vIKCds",
+                                                "image": "media/archive/imagen_2023-11-23_091122951.png"
+                                            }
+                                        ],
                                         "size": 0
                                     },
                                     {
@@ -313,6 +360,7 @@
                                         "slug": "conoce-la-corporacion-slide-12",
                                         "type": "4",
                                         "type_comic": "0",
+                                        "order": 12,
                                         "question": {
                                             "id": "17",
                                             "question_type": "1",
@@ -352,6 +400,7 @@
                                         "slug": "conoce-la-corporacion-slide-13",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 13,
                                         "size": 0
                                     }
                                 ],
@@ -915,7 +964,7 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 4842807
+                                "pill_size": 4859243
                             }
                         ]
                     },
@@ -954,7 +1003,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "23/11/2023 16:44",
-                                "calendar_date": "27/11/2023 11:40",
+                                "calendar_date": "28/11/2023 15:11",
                                 "teacher": "contents/icon_post/2._Guia_Docente_-_Nuestros_ecosistemas.pdf",
                                 "student": "contents/icon_post/3._Guia_Estudiante_-_Nuestros_ecosistemas.pdf",
                                 "metadata": "contents/metadata/4._Metadatos_-_Nuestros_ecosistemas.pdf",
@@ -968,6 +1017,7 @@
                                         "slug": "ecosistemas-vivos-slide-1",
                                         "type": "1",
                                         "type_comic": "0",
+                                        "order": 1,
                                         "size": 0
                                     },
                                     {
@@ -976,6 +1026,7 @@
                                         "slug": "ecosistemas-vivos-slide-2",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 2,
                                         "size": 0
                                     },
                                     {
@@ -984,6 +1035,7 @@
                                         "slug": "ecosistemas-vivos-slide-3",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 3,
                                         "size": 0
                                     },
                                     {
@@ -992,6 +1044,7 @@
                                         "slug": "ecosistemas-vivos-slide-4",
                                         "type": "2",
                                         "type_comic": "0",
+                                        "order": 4,
                                         "size": 0
                                     },
                                     {
@@ -1832,7 +1885,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "25/11/2023 10:07",
-                                "calendar_date": "27/11/2023 11:44",
+                                "calendar_date": "27/11/2023 17:01",
                                 "teacher": "contents/icon_post/2._Guia_Docente_-_Aguas_limpias_y_cuencas_vivas.pdf",
                                 "student": "contents/icon_post/3._Guia_Estudiante_-_Aguas_limpias_y_cuencas_vivas.pdf",
                                 "metadata": "contents/metadata/4._Metadatos_-_Aguas_limpias_y_cuencas_vivas.pdf",
@@ -2780,7 +2833,7 @@
                     {
                         "title": "E-Comics",
                         "description": "",
-                        "background_image": "contents/sections/background/E-Comics_-_Sección_Contenidos.png",
+                        "background_image": "contents/sections/background/E-Comics_-_Sección_Contenidos_wu6AyzQ.png",
                         "format_image": null,
                         "color_section": "#FFFFFFFF",
                         "color_post": "#FFFFFFFF",
