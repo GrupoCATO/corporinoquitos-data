@@ -996,14 +996,14 @@
                             {
                                 "title": "Living Ecosystems",
                                 "subtitle": null,
-                                "description": null,
+                                "description": "<p style=\"text-align:justify\">This section discusses biodiversity in Colombia, explains ecosystem services, lists local ecosystems and presents Corporinoquia&#39;s conservation plans.</p>",
                                 "slug": "ecosistemas-vivos",
                                 "image": "contents/banners/animated_logos/Imagen1_UjqJ5ne.png",
                                 "audio": null,
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "23/11/2023 16:44",
-                                "calendar_date": "28/11/2023 17:35",
+                                "calendar_date": "29/11/2023 12:23",
                                 "teacher": "contents/icon_post/2._Guia_Docente_-_Nuestros_ecosistemas.pdf",
                                 "student": "contents/icon_post/3._Guia_Estudiante_-_Nuestros_ecosistemas.pdf",
                                 "metadata": "contents/metadata/4._Metadatos_-_Nuestros_ecosistemas.pdf",
@@ -1956,14 +1956,14 @@
                             {
                                 "title": "Living Watersheds",
                                 "subtitle": null,
-                                "description": null,
+                                "description": "<p style=\"text-align:justify\">The watershed, its parts and ecosystem services are explained. The importance of the strategic plans for macro basins is highlighted, with emphasis on the POMCAS of Corporinoquia in its area of jurisdiction.</p>",
                                 "slug": "cuencas-vivas",
                                 "image": "contents/banners/animated_logos/Entrada.png",
                                 "audio": null,
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "25/11/2023 10:07",
-                                "calendar_date": "28/11/2023 17:39",
+                                "calendar_date": "29/11/2023 12:25",
                                 "teacher": "contents/icon_post/2._Guia_Docente_-_Aguas_limpias_y_cuencas_vivas.pdf",
                                 "student": "contents/icon_post/3._Guia_Estudiante_-_Aguas_limpias_y_cuencas_vivas.pdf",
                                 "metadata": "contents/metadata/4._Metadatos_-_Aguas_limpias_y_cuencas_vivas.pdf",
@@ -2976,14 +2976,14 @@
                             {
                                 "title": "Mama capybara and the drought of the plains",
                                 "subtitle": null,
-                                "description": null,
+                                "description": "<p style=\"text-align:justify\">Durante el a&ntilde;o mam&aacute; capibara y sus hijos disfrutan su vida en las cercan&iacute;as del r&iacute;o Pauto, pero el brazo largo de la contaminaci&oacute;n y la destrucci&oacute;n ha llegado a su hogar, ahora deben huir y encontrar un nuevo hogar para sus hijos, vive lla historia de mam&aacute; capibara, nuestra hero&iacute;na.</p>",
                                 "slug": "mama-capibara-y-la-sequia-del-llano",
                                 "image": "contents/banners/animated_logos/port_X2W38np.png",
                                 "audio": null,
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "29/11/2023 10:12",
-                                "calendar_date": "29/11/2023 10:53",
+                                "calendar_date": "29/11/2023 12:25",
                                 "teacher": null,
                                 "student": null,
                                 "metadata": null,
@@ -3092,9 +3092,21 @@
                                                 "video_url": null,
                                                 "image": "media/archive/6_y6ycwVK.jpg",
                                                 "weight": 80054
+                                            },
+                                            {
+                                                "id": "69",
+                                                "id_pill": "117",
+                                                "slug": "image-3",
+                                                "title": "image 3",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/7_dfVdge0.jpg",
+                                                "weight": 322154
                                             }
                                         ],
-                                        "size": 154173
+                                        "size": 476327
                                     },
                                     {
                                         "title": "page 4",
@@ -3238,7 +3250,7 @@
                                         "size": 532027
                                     }
                                 ],
-                                "pill_size": 2732802
+                                "pill_size": 3054956
                             },
                             {
                                 "title": "The alligator toom",
@@ -3250,7 +3262,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "29/11/2023 08:46",
-                                "calendar_date": "29/11/2023 11:11",
+                                "calendar_date": "29/11/2023 11:17",
                                 "teacher": null,
                                 "student": null,
                                 "metadata": null,
@@ -3333,7 +3345,7 @@
                                         "content": "",
                                         "slug": "page-3",
                                         "type": "3",
-                                        "type_comic": "0",
+                                        "type_comic": "1",
                                         "order": 3,
                                         "gallery": [
                                             {
@@ -3380,7 +3392,7 @@
                                         "content": "",
                                         "slug": "page-4",
                                         "type": "3",
-                                        "type_comic": "0",
+                                        "type_comic": "1",
                                         "order": 4,
                                         "gallery": [
                                             {
@@ -3406,16 +3418,28 @@
                                                 "video_url": null,
                                                 "image": "media/archive/9.jpg",
                                                 "weight": 57140
+                                            },
+                                            {
+                                                "id": "56",
+                                                "id_pill": "112",
+                                                "slug": "image-3",
+                                                "title": "image 3",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/10.jpg",
+                                                "weight": 51893
                                             }
                                         ],
-                                        "size": 115727
+                                        "size": 167620
                                     },
                                     {
                                         "title": "page 5",
                                         "content": "",
                                         "slug": "page-5",
                                         "type": "3",
-                                        "type_comic": "0",
+                                        "type_comic": "1",
                                         "order": 5,
                                         "gallery": [
                                             {
@@ -3441,16 +3465,28 @@
                                                 "video_url": null,
                                                 "image": "media/archive/12.jpg",
                                                 "weight": 175215
+                                            },
+                                            {
+                                                "id": "59",
+                                                "id_pill": "113",
+                                                "slug": "image-3",
+                                                "title": "image 3",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/13.jpg",
+                                                "weight": 207464
                                             }
                                         ],
-                                        "size": 212272
+                                        "size": 419736
                                     },
                                     {
                                         "title": "page 6",
                                         "content": "",
                                         "slug": "page-6",
                                         "type": "3",
-                                        "type_comic": "0",
+                                        "type_comic": "1",
                                         "order": 6,
                                         "gallery": [
                                             {
@@ -3493,7 +3529,7 @@
                                         "size": 303167
                                     }
                                 ],
-                                "pill_size": 2153417
+                                "pill_size": 2412774
                             }
                         ]
                     }
