@@ -3250,7 +3250,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "29/11/2023 08:46",
-                                "calendar_date": "29/11/2023 10:49",
+                                "calendar_date": "29/11/2023 11:11",
                                 "teacher": null,
                                 "student": null,
                                 "metadata": null,
@@ -3275,11 +3275,11 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/1_moMfn5L.jpg",
-                                                "weight": 604025
+                                                "image": "media/archive/1_Nct1074.jpg",
+                                                "weight": 484286
                                             }
                                         ],
-                                        "size": 604025
+                                        "size": 484286
                                     },
                                     {
                                         "title": "page 2",
@@ -3493,7 +3493,7 @@
                                         "size": 303167
                                     }
                                 ],
-                                "pill_size": 2273156
+                                "pill_size": 2153417
                             }
                         ]
                     }
