@@ -2868,7 +2868,27 @@
                         "color_scrollspy": "#FFFFFFFF",
                         "title_scrollspy": "#FFFFFFFF",
                         "text_scrollspy": "#FFFFFFFF",
-                        "posts": []
+                        "posts": [
+                            {
+                                "title": "Indigenous Communities",
+                                "subtitle": null,
+                                "description": "<p>The global presence of indigenous communities is explored, especially in Latin America and Colombia. The legal framework of territorial rights, the environmental policy of Corporinoquia and the Duya and M&eacute;dano Reservations, home of the S&aacute;bila ethnic group, are highlighted with indigenous environmental stories.</p>",
+                                "slug": "comunidades-indigenas",
+                                "image": "contents/banners/animated_logos/Group_165.png",
+                                "audio": null,
+                                "parent": null,
+                                "tags": [],
+                                "creation_date": "29/11/2023 16:01",
+                                "calendar_date": "29/11/2023 16:05",
+                                "teacher": null,
+                                "student": null,
+                                "metadata": null,
+                                "result": null,
+                                "sources": null,
+                                "credit": null,
+                                "pill_size": 41195
+                            }
+                        ]
                     },
                     {
                         "title": "Waste Management",
@@ -2894,7 +2914,27 @@
                         "color_scrollspy": "#FFFFFFFF",
                         "title_scrollspy": "#FFFFFFFF",
                         "text_scrollspy": "#FFFFFFFF",
-                        "posts": []
+                        "posts": [
+                            {
+                                "title": "Waste management",
+                                "subtitle": null,
+                                "description": "<p>This Capsule explains what solid waste is and its classification. Additionally, it explains what Comprehensive Solid Waste Management consists of, its regulatory framework and what the new color code is. Finally, the circular economy and some post-consumer programs are discussed.</p>",
+                                "slug": "gestion-de-residuos",
+                                "image": "contents/banners/animated_logos/Group_164.png",
+                                "audio": null,
+                                "parent": null,
+                                "tags": [],
+                                "creation_date": "29/11/2023 16:28",
+                                "calendar_date": "29/11/2023 16:28",
+                                "teacher": null,
+                                "student": null,
+                                "metadata": null,
+                                "result": null,
+                                "sources": null,
+                                "credit": null,
+                                "pill_size": 40051
+                            }
+                        ]
                     },
                     {
                         "title": "Environmental Threats",
@@ -2920,7 +2960,27 @@
                         "color_scrollspy": "#FFFFFFFF",
                         "title_scrollspy": "#FFFFFFFF",
                         "text_scrollspy": "#FFFFFFFF",
-                        "posts": []
+                        "posts": [
+                            {
+                                "title": "Environmental Threats",
+                                "subtitle": null,
+                                "description": "<p style=\"text-align:justify\">Environmental threats, regulatory framework and problems are addressed, including greenhouse gas inventory. Climate change, its impacts, vulnerability analysis, and adaptation and mitigation measures in the Orinoquia region are also discussed.</p>",
+                                "slug": "amenazas-ambientales",
+                                "image": "contents/banners/animated_logos/Group_164_SdEut1F.png",
+                                "audio": null,
+                                "parent": null,
+                                "tags": [],
+                                "creation_date": "29/11/2023 16:29",
+                                "calendar_date": "29/11/2023 16:32",
+                                "teacher": null,
+                                "student": null,
+                                "metadata": null,
+                                "result": null,
+                                "sources": null,
+                                "credit": null,
+                                "pill_size": 41008
+                            }
+                        ]
                     },
                     {
                         "title": "Citizen Participation",
@@ -2946,7 +3006,27 @@
                         "color_scrollspy": "#FFFFFFFF",
                         "title_scrollspy": "#FFFFFFFF",
                         "text_scrollspy": "#FFFFFFFF",
-                        "posts": []
+                        "posts": [
+                            {
+                                "title": "Citizen participation",
+                                "subtitle": null,
+                                "description": "<p style=\"text-align:justify\">Citizen participation and its mechanisms are discussed, along with the corresponding Statutory Law. The Interinstitutional Committee for Environmental Education (CIDEA), its functions and the identification of the CIDEAS in the Jurisdiction of Corporinoquia is also mentioned.</p>",
+                                "slug": "participacion-ciudadana",
+                                "image": "contents/banners/animated_logos/Group_165_MIlVyta.png",
+                                "audio": null,
+                                "parent": null,
+                                "tags": [],
+                                "creation_date": "29/11/2023 16:32",
+                                "calendar_date": "29/11/2023 16:34",
+                                "teacher": null,
+                                "student": null,
+                                "metadata": null,
+                                "result": null,
+                                "sources": null,
+                                "credit": null,
+                                "pill_size": 45478
+                            }
+                        ]
                     },
                     {
                         "title": "E-Comics",
