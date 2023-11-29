@@ -1,4 +1,4 @@
- [
+[
         {
             "page_metadata": {
                 "title": "Inicio",
@@ -2868,7 +2868,27 @@
                         "color_scrollspy": "#FFFFFFFF",
                         "title_scrollspy": "#FFFFFFFF",
                         "text_scrollspy": "#FFFFFFFF",
-                        "posts": []
+                        "posts": [
+                            {
+                                "title": "Comunidades Indígenas",
+                                "subtitle": null,
+                                "description": "<p style=\"text-align:justify\">Se explora la presencia global de comunidades ind&iacute;genas, especialmente en Latinoam&eacute;rica y Colombia. Se destaca el marco legal de los derechos territoriales, la pol&iacute;tica ambiental de Corporinoquia y se profundiza en los Resguardos Duya y el M&eacute;dano, hogar de la etnia S&aacute;bila, con relatos ambientales ind&iacute;genas.</p>",
+                                "slug": "comunidades-indigenas",
+                                "image": "contents/banners/animated_logos/Group_165.png",
+                                "audio": null,
+                                "parent": null,
+                                "tags": [],
+                                "creation_date": "29/11/2023 16:01",
+                                "calendar_date": "29/11/2023 16:05",
+                                "teacher": null,
+                                "student": null,
+                                "metadata": null,
+                                "result": null,
+                                "sources": null,
+                                "credit": null,
+                                "pill_size": 41195
+                            }
+                        ]
                     },
                     {
                         "title": "Gestión de Residuos",
@@ -2894,7 +2914,27 @@
                         "color_scrollspy": "#FFFFFFFF",
                         "title_scrollspy": "#FFFFFFFF",
                         "text_scrollspy": "#FFFFFFFF",
-                        "posts": []
+                        "posts": [
+                            {
+                                "title": "Gestión de residuos",
+                                "subtitle": null,
+                                "description": "<p>En esta Capsula se explica qu&eacute; son los residuos s&oacute;lidos y su clasificaci&oacute;n. Adicional se explica en qu&eacute; consiste la Gesti&oacute;n Integral de Residuos S&oacute;lidos, su marco normativo y cu&aacute;l es el nuevo c&oacute;digo de colores. Por &uacute;ltimo, se expone sobre la econom&iacute;a circular y algunos programas de posconsumo.</p>",
+                                "slug": "gestion-de-residuos",
+                                "image": "contents/banners/animated_logos/Group_164.png",
+                                "audio": null,
+                                "parent": null,
+                                "tags": [],
+                                "creation_date": "29/11/2023 16:28",
+                                "calendar_date": "29/11/2023 16:28",
+                                "teacher": null,
+                                "student": null,
+                                "metadata": null,
+                                "result": null,
+                                "sources": null,
+                                "credit": null,
+                                "pill_size": 40051
+                            }
+                        ]
                     },
                     {
                         "title": "Amenazas Ambientales",
@@ -2920,7 +2960,27 @@
                         "color_scrollspy": "#FFFFFFFF",
                         "title_scrollspy": "#FFFFFFFF",
                         "text_scrollspy": "#FFFFFFFF",
-                        "posts": []
+                        "posts": [
+                            {
+                                "title": "Amenazas Ambientales",
+                                "subtitle": null,
+                                "description": "<p style=\"text-align:justify\">Se abordan amenazas ambientales, marco normativo y problemas, incluyendo inventario de gases de efecto invernadero. Tambi&eacute;n se trata el cambio clim&aacute;tico, sus impactos, an&aacute;lisis de vulnerabilidad, y medidas de adaptaci&oacute;n y mitigaci&oacute;n en la regi&oacute;n de la Orinoquia.</p>",
+                                "slug": "amenazas-ambientales",
+                                "image": "contents/banners/animated_logos/Group_164_SdEut1F.png",
+                                "audio": null,
+                                "parent": null,
+                                "tags": [],
+                                "creation_date": "29/11/2023 16:29",
+                                "calendar_date": "29/11/2023 16:32",
+                                "teacher": null,
+                                "student": null,
+                                "metadata": null,
+                                "result": null,
+                                "sources": null,
+                                "credit": null,
+                                "pill_size": 41008
+                            }
+                        ]
                     },
                     {
                         "title": "Participación Ciudadana",
@@ -2946,7 +3006,27 @@
                         "color_scrollspy": "#FFFFFFFF",
                         "title_scrollspy": "#FFFFFFFF",
                         "text_scrollspy": "#FFFFFFFF",
-                        "posts": []
+                        "posts": [
+                            {
+                                "title": "Participación ciudadana",
+                                "subtitle": null,
+                                "description": "<p style=\"text-align:justify\">Se trata la participaci&oacute;n ciudadana y sus mecanismos, junto con la Ley Estatutaria correspondiente. Tambi&eacute;n se menciona el Comit&eacute; Interinstitucional de Educaci&oacute;n Ambiental (CIDEA), sus funciones y la identificaci&oacute;n de los CIDEAS en la Jurisdicci&oacute;n de Corporinoquia.</p>",
+                                "slug": "participacion-ciudadana",
+                                "image": "contents/banners/animated_logos/Group_165_MIlVyta.png",
+                                "audio": null,
+                                "parent": null,
+                                "tags": [],
+                                "creation_date": "29/11/2023 16:32",
+                                "calendar_date": "29/11/2023 16:34",
+                                "teacher": null,
+                                "student": null,
+                                "metadata": null,
+                                "result": null,
+                                "sources": null,
+                                "credit": null,
+                                "pill_size": 45478
+                            }
+                        ]
                     },
                     {
                         "title": "E-Comics",
@@ -4374,4 +4454,4 @@
                 "project": null
             }
         }
-    ]
+    ] 
