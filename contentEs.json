@@ -1,10 +1,4 @@
 [
-        {
-            "page_metadata": {
-                "title": "Inicio",
-                "description": "",
-                "slug": "inicio",
-                "sections": [
                     {
                         "title": "Conoce la Corporación",
                         "description": "",
@@ -2974,6 +2968,261 @@
                         "text_scrollspy": "#FFFFFFFF",
                         "posts": [
                             {
+                                "title": "Mamá capibara y la sequía del llano",
+                                "subtitle": null,
+                                "description": null,
+                                "slug": "mama-capibara-y-la-sequia-del-llano",
+                                "image": "contents/banners/animated_logos/port_X2W38np.png",
+                                "audio": null,
+                                "parent": null,
+                                "tags": [],
+                                "creation_date": "29/11/2023 10:12",
+                                "calendar_date": "29/11/2023 10:41",
+                                "teacher": null,
+                                "student": null,
+                                "metadata": null,
+                                "result": null,
+                                "sources": null,
+                                "credit": null,
+                                "pill": [
+                                    {
+                                        "title": "Mamá capibara y la sequía del llano",
+                                        "content": "",
+                                        "slug": "page-1",
+                                        "type": "3",
+                                        "type_comic": "0",
+                                        "order": 1,
+                                        "gallery": [
+                                            {
+                                                "id": "63",
+                                                "id_pill": "115",
+                                                "slug": "image-1",
+                                                "title": "imagen 1",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/1.jpg",
+                                                "weight": 604025
+                                            }
+                                        ],
+                                        "size": 604025
+                                    },
+                                    {
+                                        "title": "página 2",
+                                        "content": "",
+                                        "slug": "page-2",
+                                        "type": "3",
+                                        "type_comic": "1",
+                                        "order": 2,
+                                        "gallery": [
+                                            {
+                                                "id": "64",
+                                                "id_pill": "116",
+                                                "slug": "image-1",
+                                                "title": "imagen 1",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/2_axq5e3E.jpg",
+                                                "weight": 320523
+                                            },
+                                            {
+                                                "id": "65",
+                                                "id_pill": "116",
+                                                "slug": "image-2",
+                                                "title": "imagen 2",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/3_Swy9lgY.jpg",
+                                                "weight": 352035
+                                            }
+                                        ],
+                                        "size": 672558
+                                    },
+                                    {
+                                        "title": "página 3",
+                                        "content": "",
+                                        "slug": "page-3",
+                                        "type": "3",
+                                        "type_comic": "1",
+                                        "order": 3,
+                                        "gallery": [
+                                            {
+                                                "id": "67",
+                                                "id_pill": "117",
+                                                "slug": "image-1",
+                                                "title": "imagen 1",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/5_cGJtyKT.jpg",
+                                                "weight": 74119
+                                            },
+                                            {
+                                                "id": "68",
+                                                "id_pill": "117",
+                                                "slug": "image-2",
+                                                "title": "imagen 2",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/6_y6ycwVK.jpg",
+                                                "weight": 80054
+                                            }
+                                        ],
+                                        "size": 154173
+                                    },
+                                    {
+                                        "title": "página 4",
+                                        "content": "",
+                                        "slug": "page-4",
+                                        "type": "3",
+                                        "type_comic": "1",
+                                        "order": 4,
+                                        "gallery": [
+                                            {
+                                                "id": "70",
+                                                "id_pill": "118",
+                                                "slug": "image-1",
+                                                "title": "imagen 1",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/8_LNIxLWp.jpg",
+                                                "weight": 148281
+                                            },
+                                            {
+                                                "id": "71",
+                                                "id_pill": "118",
+                                                "slug": "image-2",
+                                                "title": "imagen 2",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/9_f3Q7UUp.jpg",
+                                                "weight": 99492
+                                            },
+                                            {
+                                                "id": "72",
+                                                "id_pill": "118",
+                                                "slug": "image-3",
+                                                "title": "imagen 3",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/10_801np1x.jpg",
+                                                "weight": 76675
+                                            }
+                                        ],
+                                        "size": 324448
+                                    },
+                                    {
+                                        "title": "página 5",
+                                        "content": "",
+                                        "slug": "page-5",
+                                        "type": "3",
+                                        "type_comic": "1",
+                                        "order": 5,
+                                        "gallery": [
+                                            {
+                                                "id": "73",
+                                                "id_pill": "119",
+                                                "slug": "image-1",
+                                                "title": "imagen 1",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": null,
+                                                "weight": 0
+                                            },
+                                            {
+                                                "id": "74",
+                                                "id_pill": "119",
+                                                "slug": "image-2",
+                                                "title": "imagen 2",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": null,
+                                                "weight": 0
+                                            },
+                                            {
+                                                "id": "75",
+                                                "id_pill": "119",
+                                                "slug": "image-3",
+                                                "title": "imagen 3",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": null,
+                                                "weight": 0
+                                            }
+                                        ],
+                                        "size": 0
+                                    },
+                                    {
+                                        "title": "página 6",
+                                        "content": "",
+                                        "slug": "page-6",
+                                        "type": "3",
+                                        "type_comic": "1",
+                                        "order": 6,
+                                        "gallery": [
+                                            {
+                                                "id": "76",
+                                                "id_pill": "120",
+                                                "slug": "image-1",
+                                                "title": "imagen 1",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/14_PL796XP.jpg",
+                                                "weight": 334777
+                                            },
+                                            {
+                                                "id": "77",
+                                                "id_pill": "120",
+                                                "slug": "image-2",
+                                                "title": "imagen 2",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/15_8dfGGWy.jpg",
+                                                "weight": 107549
+                                            },
+                                            {
+                                                "id": "78",
+                                                "id_pill": "120",
+                                                "slug": "image-3",
+                                                "title": "imagen 3",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/16_FdYsVqv.jpg",
+                                                "weight": 89701
+                                            }
+                                        ],
+                                        "size": 532027
+                                    }
+                                ],
+                                "pill_size": 2397908
+                            },
+                            {
                                 "title": "El Caimán Toom",
                                 "subtitle": null,
                                 "description": "<p>Cuenta la historia del caim&aacute;n toom, un viejo y gigantesco ejemplar que protege d&iacute;a y noche a sus huevecillos de las terribles garras humanas, para que puedan conocer la maravillosa vida que les ofrece el afluente del orinoco.</p>",
@@ -2983,7 +3232,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "29/11/2023 08:46",
-                                "calendar_date": "29/11/2023 10:04",
+                                "calendar_date": "29/11/2023 10:49",
                                 "teacher": null,
                                 "student": null,
                                 "metadata": null,
@@ -3008,11 +3257,11 @@
                                                 "online_url": null,
                                                 "offline_url": null,
                                                 "video_url": null,
-                                                "image": "media/archive/1.jpg",
-                                                "weight": 484286
+                                                "image": "media/archive/1_moMfn5L.jpg",
+                                                "weight": 604025
                                             }
                                         ],
-                                        "size": 484286
+                                        "size": 604025
                                     },
                                     {
                                         "title": "page 2",
@@ -3068,7 +3317,45 @@
                                         "type": "3",
                                         "type_comic": "0",
                                         "order": 3,
-                                        "size": 0
+                                        "gallery": [
+                                            {
+                                                "id": "51",
+                                                "id_pill": "111",
+                                                "slug": "image-1",
+                                                "title": "imagen 1",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/5.jpg",
+                                                "weight": 205265
+                                            },
+                                            {
+                                                "id": "52",
+                                                "id_pill": "111",
+                                                "slug": "image-2",
+                                                "title": "imagen 2",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/6.jpg",
+                                                "weight": 28049
+                                            },
+                                            {
+                                                "id": "53",
+                                                "id_pill": "111",
+                                                "slug": "image-3",
+                                                "title": "imagen 3",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/7.jpg",
+                                                "weight": 240631
+                                            }
+                                        ],
+                                        "size": 473945
                                     },
                                     {
                                         "title": "página 4",
@@ -3077,7 +3364,33 @@
                                         "type": "3",
                                         "type_comic": "0",
                                         "order": 4,
-                                        "size": 0
+                                        "gallery": [
+                                            {
+                                                "id": "54",
+                                                "id_pill": "112",
+                                                "slug": "image-1",
+                                                "title": "imagen 1",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/8.jpg",
+                                                "weight": 58587
+                                            },
+                                            {
+                                                "id": "55",
+                                                "id_pill": "112",
+                                                "slug": "image-2",
+                                                "title": "imagen 2",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/9.jpg",
+                                                "weight": 57140
+                                            }
+                                        ],
+                                        "size": 115727
                                     },
                                     {
                                         "title": "página 5",
@@ -3086,7 +3399,33 @@
                                         "type": "3",
                                         "type_comic": "0",
                                         "order": 5,
-                                        "size": 0
+                                        "gallery": [
+                                            {
+                                                "id": "57",
+                                                "id_pill": "113",
+                                                "slug": "image-1",
+                                                "title": "imagen 1",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/11.jpg",
+                                                "weight": 37057
+                                            },
+                                            {
+                                                "id": "58",
+                                                "id_pill": "113",
+                                                "slug": "image-2",
+                                                "title": "imagen 2",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/12.jpg",
+                                                "weight": 175215
+                                            }
+                                        ],
+                                        "size": 212272
                                     },
                                     {
                                         "title": "página 6",
@@ -3095,10 +3434,48 @@
                                         "type": "3",
                                         "type_comic": "0",
                                         "order": 6,
-                                        "size": 0
+                                        "gallery": [
+                                            {
+                                                "id": "60",
+                                                "id_pill": "114",
+                                                "slug": "image-1",
+                                                "title": "imagen 1",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/14.jpg",
+                                                "weight": 74937
+                                            },
+                                            {
+                                                "id": "61",
+                                                "id_pill": "114",
+                                                "slug": "image-2",
+                                                "title": "imagen 2",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/15.jpg",
+                                                "weight": 172942
+                                            },
+                                            {
+                                                "id": "62",
+                                                "id_pill": "114",
+                                                "slug": "image-3",
+                                                "title": "imagen 3",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/16.jpg",
+                                                "weight": 55288
+                                            }
+                                        ],
+                                        "size": 303167
                                     }
                                 ],
-                                "pill_size": 1048306
+                                "pill_size": 2273156
                             }
                         ]
                     }
