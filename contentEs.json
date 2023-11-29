@@ -2879,13 +2879,24 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "29/11/2023 16:01",
-                                "calendar_date": "29/11/2023 16:05",
+                                "calendar_date": "29/11/2023 17:11",
                                 "teacher": null,
                                 "student": null,
                                 "metadata": null,
                                 "result": null,
                                 "sources": null,
                                 "credit": null,
+                                "pill": [
+                                    {
+                                        "title": "slide uno",
+                                        "content": "",
+                                        "slug": "slide-uno",
+                                        "type": "1",
+                                        "type_comic": "0",
+                                        "order": 0,
+                                        "size": 0
+                                    }
+                                ],
                                 "pill_size": 41195
                             }
                         ]
@@ -2925,13 +2936,24 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "29/11/2023 16:28",
-                                "calendar_date": "29/11/2023 16:28",
+                                "calendar_date": "29/11/2023 17:12",
                                 "teacher": null,
                                 "student": null,
                                 "metadata": null,
                                 "result": null,
                                 "sources": null,
                                 "credit": null,
+                                "pill": [
+                                    {
+                                        "title": "slide uno",
+                                        "content": "",
+                                        "slug": "slide-uno",
+                                        "type": "1",
+                                        "type_comic": "0",
+                                        "order": 0,
+                                        "size": 0
+                                    }
+                                ],
                                 "pill_size": 40051
                             }
                         ]
@@ -2971,13 +2993,24 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "29/11/2023 16:29",
-                                "calendar_date": "29/11/2023 16:32",
+                                "calendar_date": "29/11/2023 17:13",
                                 "teacher": null,
                                 "student": null,
                                 "metadata": null,
                                 "result": null,
                                 "sources": null,
                                 "credit": null,
+                                "pill": [
+                                    {
+                                        "title": "slide uno",
+                                        "content": "",
+                                        "slug": "slide-uno",
+                                        "type": "1",
+                                        "type_comic": "0",
+                                        "order": 0,
+                                        "size": 0
+                                    }
+                                ],
                                 "pill_size": 41008
                             }
                         ]
@@ -3017,13 +3050,24 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "29/11/2023 16:32",
-                                "calendar_date": "29/11/2023 16:34",
+                                "calendar_date": "29/11/2023 17:14",
                                 "teacher": null,
                                 "student": null,
                                 "metadata": null,
                                 "result": null,
                                 "sources": null,
                                 "credit": null,
+                                "pill": [
+                                    {
+                                        "title": "slide uno",
+                                        "content": "",
+                                        "slug": "slide-uno",
+                                        "type": "1",
+                                        "type_comic": "0",
+                                        "order": 0,
+                                        "size": 0
+                                    }
+                                ],
                                 "pill_size": 45478
                             }
                         ]
