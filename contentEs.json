@@ -2983,7 +2983,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "29/11/2023 08:46",
-                                "calendar_date": "29/11/2023 09:26",
+                                "calendar_date": "29/11/2023 09:40",
                                 "teacher": null,
                                 "student": null,
                                 "metadata": null,
@@ -3021,7 +3021,33 @@
                                         "type": "3",
                                         "type_comic": "0",
                                         "order": 2,
-                                        "size": 0
+                                        "gallery": [
+                                            {
+                                                "id": "48",
+                                                "id_pill": "110",
+                                                "slug": "image-1",
+                                                "title": "imagen 1",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/2.jpg",
+                                                "weight": 83251
+                                            },
+                                            {
+                                                "id": "49",
+                                                "id_pill": "110",
+                                                "slug": "image-2",
+                                                "title": "imagen 2",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/3.jpg",
+                                                "weight": 212235
+                                            }
+                                        ],
+                                        "size": 295486
                                     },
                                     {
                                         "title": "página 3",
@@ -3060,7 +3086,7 @@
                                         "size": 0
                                     }
                                 ],
-                                "pill_size": 578753
+                                "pill_size": 874239
                             }
                         ]
                     }
