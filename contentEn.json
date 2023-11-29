@@ -2983,7 +2983,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "29/11/2023 08:46",
-                                "calendar_date": "29/11/2023 09:40",
+                                "calendar_date": "29/11/2023 10:00",
                                 "teacher": null,
                                 "student": null,
                                 "metadata": null,
@@ -3045,9 +3045,21 @@
                                                 "video_url": null,
                                                 "image": "media/archive/3.jpg",
                                                 "weight": 212235
+                                            },
+                                            {
+                                                "id": "50",
+                                                "id_pill": "110",
+                                                "slug": "image-3",
+                                                "title": "image 3",
+                                                "type": "PHOTO",
+                                                "online_url": null,
+                                                "offline_url": null,
+                                                "video_url": null,
+                                                "image": "media/archive/4.jpg",
+                                                "weight": 174067
                                             }
                                         ],
-                                        "size": 295486
+                                        "size": 469553
                                     },
                                     {
                                         "title": "page 3",
@@ -3086,7 +3098,7 @@
                                         "size": 0
                                     }
                                 ],
-                                "pill_size": 874239
+                                "pill_size": 1048306
                             }
                         ]
                     }
