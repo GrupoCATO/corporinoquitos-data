@@ -1,4 +1,4 @@
- [
+[
         {
             "page_metadata": {
                 "title": "Inicio",
@@ -40,8 +40,19 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 08:37",
-                                "calendar_date": "04/12/2023 17:44",
+                                "calendar_date": "04/12/2023 18:48",
                                 "gallery": [
+                                    {
+                                        "id": 6,
+                                        "slug": "rutina-de-trabajo-del-llano",
+                                        "title": "rutina de trabajo del llano",
+                                        "type": "TOUR",
+                                        "online_url": null,
+                                        "offline_url": null,
+                                        "video_url": "https://corporinoquitos-bucket.s3.us-east-2.amazonaws.com/static/tours/tour_trabajodellano/Trabajodellano.json",
+                                        "image": "contents/post_gallery/1.ENCIERRODEGANADO.jpg",
+                                        "weight": 2381479
+                                    },
                                     {
                                         "id": 5,
                                         "slug": "instrumentos",
@@ -478,7 +489,7 @@
                                         "size": 0
                                     }
                                 ],
-                                "pill_size": 118454067
+                                "pill_size": 120835546
                             }
                         ]
                     },
