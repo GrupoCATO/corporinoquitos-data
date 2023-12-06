@@ -40,7 +40,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 08:37",
-                                "calendar_date": "06/12/2023 17:21",
+                                "calendar_date": "06/12/2023 18:00",
                                 "gallery": [
                                     {
                                         "id": 6,
@@ -1089,7 +1089,20 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 11:58",
-                                "calendar_date": "06/12/2023 17:53",
+                                "calendar_date": "06/12/2023 18:00",
+                                "gallery": [
+                                    {
+                                        "id": 15,
+                                        "slug": "ecoturismo-en-las-reservas-de-la-sociedad-civil",
+                                        "title": "Ecoturismo en las reservas de la sociedad civil",
+                                        "type": "TOUR",
+                                        "online_url": null,
+                                        "offline_url": null,
+                                        "video_url": "https://corporinoquitos-bucket.s3.us-east-2.amazonaws.com/media/tours/ecoturismo-en-las-reservas-de-la-sociedad-civil/tour.json",
+                                        "image": "contents/post_gallery/1.Laguna.jpeg",
+                                        "weight": 2173832
+                                    }
+                                ],
                                 "teacher": "contents/icon_post/2._Guia_Docente_-_Nuestros_ecosistemas.pdf",
                                 "student": "contents/icon_post/3._Guia_Estudiante_-_Nuestros_ecosistemas.pdf",
                                 "metadata": "contents/metadata/4._Metadatos_-_Nuestros_ecosistemas.pdf",
@@ -2245,7 +2258,7 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 9205019
+                                "pill_size": 11378851
                             }
                         ]
                     },
@@ -2284,8 +2297,19 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "05/12/2023 08:50",
-                                "calendar_date": "06/12/2023 17:32",
+                                "calendar_date": "06/12/2023 18:00",
                                 "gallery": [
+                                    {
+                                        "id": 11,
+                                        "slug": "senderismo-por-nuestros-paramos",
+                                        "title": "Senderismo por nuestros paramos",
+                                        "type": "TOUR",
+                                        "online_url": null,
+                                        "offline_url": null,
+                                        "video_url": "https://corporinoquitos-bucket.s3.us-east-2.amazonaws.com/media/tours/senderismo-por-nuestros-paramos/tour.json",
+                                        "image": "contents/post_gallery/1.Plazadequetame.jpg",
+                                        "weight": 4712132
+                                    },
                                     {
                                         "id": 9,
                                         "slug": "laguna-del-tinije",
@@ -3200,7 +3224,7 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 6347648
+                                "pill_size": 11059780
                             }
                         ]
                     },
@@ -3239,7 +3263,20 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "05/12/2023 11:51",
-                                "calendar_date": "06/12/2023 17:51",
+                                "calendar_date": "06/12/2023 18:00",
+                                "gallery": [
+                                    {
+                                        "id": 14,
+                                        "slug": "visita-nuestros-resguardos-indigenas",
+                                        "title": "Visita nuestros resguardos indígenas",
+                                        "type": "TOUR",
+                                        "online_url": null,
+                                        "offline_url": null,
+                                        "video_url": "https://corporinoquitos-bucket.s3.us-east-2.amazonaws.com/media/tours/visita-nuestros-resguardos-indigenas/tour.json",
+                                        "image": "contents/post_gallery/1.Cumaribovichada_EF1GR3m.jpg",
+                                        "weight": 4958265
+                                    }
+                                ],
                                 "teacher": "contents/icon_post/2._Guia_Docente_-_Comunidades_Indigenas.pdf",
                                 "student": "contents/icon_post/3._Guia_Estudiante_-_Comunidades_Indigenas.pdf",
                                 "metadata": "contents/metadata/4._Metadatos_-_Comunidades_Indigenas.pdf",
@@ -4387,7 +4424,7 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 4635324
+                                "pill_size": 9593589
                             }
                         ]
                     },
@@ -4426,7 +4463,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "05/12/2023 16:59",
-                                "calendar_date": "06/12/2023 17:48",
+                                "calendar_date": "06/12/2023 18:01",
                                 "gallery": [
                                     {
                                         "id": 12,
