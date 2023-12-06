@@ -15,7 +15,7 @@
                         "title_section_color": "#000000FF",
                         "title_post_color": "#000000FF",
                         "text_post_color": "#000000FF",
-                        "slug": "pildora-1",
+                        "slug": "conoce-la-corporacion",
                         "component": null,
                         "align": "RIGHT",
                         "lines_to_show": "1",
@@ -33,19 +33,19 @@
                             {
                                 "title": "Meet the corporation",
                                 "subtitle": null,
-                                "description": null,
+                                "description": "<p>The capsule describes Corporinoquia, highlighting its jurisdiction, mission and functions. It also discusses regional environmental planning instruments and presents the associated institutional characters.</p>",
                                 "slug": "conoce-la-corporacion",
                                 "image": "contents/banners/animated_logos/Mask_group.png",
                                 "audio": null,
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 08:37",
-                                "calendar_date": "06/12/2023 18:14",
+                                "calendar_date": "06/12/2023 18:40",
                                 "gallery": [
                                     {
                                         "id": 6,
                                         "slug": "conoce-la-corporacion",
-                                        "title": "work routine of the plain",
+                                        "title": "Meet the corporation",
                                         "type": "TOUR",
                                         "online_url": null,
                                         "offline_url": null,
@@ -1071,19 +1071,19 @@
                             {
                                 "title": "Living Ecosystems",
                                 "subtitle": null,
-                                "description": null,
+                                "description": "<p>The capsule highlights biodiversity in Colombia, provides key data and explains ecosystem services. It also presents a vision of Colombian ecosystems and mentions the conservation plans implemented by Corporinoquia.</p>",
                                 "slug": "ecosistemas-vivos",
                                 "image": "contents/banners/animated_logos/Group_160.png",
                                 "audio": null,
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 11:58",
-                                "calendar_date": "06/12/2023 18:05",
+                                "calendar_date": "06/12/2023 18:42",
                                 "gallery": [
                                     {
                                         "id": 15,
                                         "slug": "ecoturismo-en-las-reservas-de-la-sociedad-civil",
-                                        "title": "Ecotourism in civil society reserves",
+                                        "title": "Ecotourism in civil society reserves (plains herd)",
                                         "type": "TOUR",
                                         "online_url": null,
                                         "offline_url": null,
@@ -2279,14 +2279,14 @@
                             {
                                 "title": "Living Watersheds",
                                 "subtitle": null,
-                                "description": null,
+                                "description": "<p>The capsule addresses watersheds in Colombia, describing their components and highlighting the importance of the POMCAs implemented by Corporinoqu&iacute;a.</p>",
                                 "slug": "cuencas-vivas",
                                 "image": "contents/banners/animated_logos/Group_161.png",
                                 "audio": null,
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "05/12/2023 08:50",
-                                "calendar_date": "06/12/2023 18:09",
+                                "calendar_date": "06/12/2023 18:43",
                                 "gallery": [
                                     {
                                         "id": 11,
@@ -3245,14 +3245,14 @@
                             {
                                 "title": "Indigenous Communities",
                                 "subtitle": null,
-                                "description": null,
+                                "description": "<p>The capsule explores indigenous communities at the global, Latin American and Colombian levels, examining their legal framework. It also highlights the environmental education policy in Corporinoquia&#39;s jurisdiction.</p>",
                                 "slug": "comunidades-indigenas",
                                 "image": "contents/banners/animated_logos/Group_165.png",
                                 "audio": null,
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "05/12/2023 11:51",
-                                "calendar_date": "06/12/2023 18:06",
+                                "calendar_date": "06/12/2023 18:44",
                                 "gallery": [
                                     {
                                         "id": 14,
@@ -4445,14 +4445,14 @@
                             {
                                 "title": "Environmental Threats",
                                 "subtitle": null,
-                                "description": null,
+                                "description": "<p>Find out all about environmental threats in the Orinoquia in this informative capsule. We explore key concepts, regulations, environmental problems, gas inventory, current climate, climate change, impacts, and adaptation measures. Dive into the sustainability of the region in a few minutes!</p>",
                                 "slug": "amenazas-ambientales",
                                 "image": "contents/banners/animated_logos/Group_163.png",
                                 "audio": null,
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "05/12/2023 16:59",
-                                "calendar_date": "06/12/2023 18:01",
+                                "calendar_date": "06/12/2023 18:46",
                                 "gallery": [
                                     {
                                         "id": 12,
