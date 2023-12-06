@@ -15,7 +15,7 @@
                         "title_section_color": "#000000FF",
                         "title_post_color": "#000000FF",
                         "text_post_color": "#000000FF",
-                        "slug": "conoce-la-corporacion",
+                        "slug": "pildora-1",
                         "component": null,
                         "align": "RIGHT",
                         "lines_to_show": "1",
@@ -40,11 +40,11 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 08:37",
-                                "calendar_date": "06/12/2023 18:00",
+                                "calendar_date": "06/12/2023 18:14",
                                 "gallery": [
                                     {
                                         "id": 6,
-                                        "slug": "rutina-de-trabajo-del-llano",
+                                        "slug": "conoce-la-corporacion",
                                         "title": "rutina de trabajo del llano",
                                         "type": "TOUR",
                                         "online_url": null,
@@ -52,17 +52,6 @@
                                         "video_url": "https://corporinoquitos-bucket.s3.us-east-2.amazonaws.com/media/tours/conoce-la-corporacion/conoce-la-corporacion.json",
                                         "image": "contents/post_gallery/1.SedeAraucaentrada.jpg",
                                         "weight": 6498460
-                                    },
-                                    {
-                                        "id": 5,
-                                        "slug": "instrumentos",
-                                        "title": "Instrumentos",
-                                        "type": "VR",
-                                        "online_url": "contents/post_gallery/Capsula_2.mp4",
-                                        "offline_url": null,
-                                        "video_url": null,
-                                        "image": "contents/post_gallery/capsula_2_HziUhg7.png",
-                                        "weight": 112485514
                                     }
                                 ],
                                 "teacher": "contents/icon_post/2._Guia_Docente_-_Conoce_la_corporación.pdf",
@@ -1050,7 +1039,7 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 125014169
+                                "pill_size": 12528655
                             }
                         ]
                     },
@@ -1089,7 +1078,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 11:58",
-                                "calendar_date": "06/12/2023 18:00",
+                                "calendar_date": "06/12/2023 18:05",
                                 "gallery": [
                                     {
                                         "id": 15,
@@ -2297,7 +2286,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "05/12/2023 08:50",
-                                "calendar_date": "06/12/2023 18:00",
+                                "calendar_date": "06/12/2023 18:09",
                                 "gallery": [
                                     {
                                         "id": 11,
@@ -2317,7 +2306,7 @@
                                         "type": "VR",
                                         "online_url": null,
                                         "offline_url": null,
-                                        "video_url": "https://youtu.be/6pwgwqdQJys",
+                                        "video_url": "https://youtu.be/1H4lnKzKuzQ",
                                         "image": "contents/post_gallery/Captura_de_pantalla_2023-12-06_165228.png",
                                         "weight": 1126988
                                     }
@@ -3263,7 +3252,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "05/12/2023 11:51",
-                                "calendar_date": "06/12/2023 18:00",
+                                "calendar_date": "06/12/2023 18:06",
                                 "gallery": [
                                     {
                                         "id": 14,
