@@ -2329,7 +2329,20 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "05/12/2023 08:50",
-                                "calendar_date": "06/12/2023 16:53",
+                                "calendar_date": "06/12/2023 17:01",
+                                "gallery": [
+                                    {
+                                        "id": 9,
+                                        "slug": "laguna-del-tinije",
+                                        "title": "Laguna del Tinije",
+                                        "type": "VR",
+                                        "online_url": null,
+                                        "offline_url": null,
+                                        "video_url": "https://youtu.be/6pwgwqdQJys",
+                                        "image": "contents/post_gallery/Captura_de_pantalla_2023-12-06_165228.png",
+                                        "weight": 1126988
+                                    }
+                                ],
                                 "teacher": "contents/icon_post/2._Guia_Docente_-_Cuencas_Vivas.pdf",
                                 "student": "contents/icon_post/3._Guia_Estudiante_-_Cuencas_Vivas.pdf",
                                 "metadata": "contents/metadata/4._Metadatos_-_Cuencas_Vivas.pdf",
@@ -3232,7 +3245,7 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 5220660
+                                "pill_size": 6347648
                             }
                         ]
                     },
