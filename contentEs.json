@@ -33,14 +33,14 @@
                             {
                                 "title": "Conoce la corporación",
                                 "subtitle": null,
-                                "description": "<p style=\"text-align:justify\">La c&aacute;psula describe Corporinoquia, destacando su jurisdicci&oacute;n, misi&oacute;n y funciones. Tambi&eacute;n se examinan los instrumentos de planificaci&oacute;n ambiental regional y se presentan los personajes institucionales asociados.</p>",
+                                "description": "<p style=\"text-align:justify\">Visita nuestras sedes y conoce la misi&oacute;n, visi&oacute;n y funciones. Tambi&eacute;n conoce nuestros instrumentos de planificaci&oacute;n ambiental y nuestra jurisdicci&oacute;n.</p>",
                                 "slug": "conoce-la-corporacion",
                                 "image": "contents/banners/animated_logos/Mask_group.png",
                                 "audio": null,
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 08:37",
-                                "calendar_date": "06/12/2023 18:40",
+                                "calendar_date": "06/12/2023 19:25",
                                 "gallery": [
                                     {
                                         "id": 6,
@@ -1071,14 +1071,14 @@
                             {
                                 "title": "Ecosistemas Vivos",
                                 "subtitle": null,
-                                "description": "<p>La c&aacute;psula destaca la biodiversidad en Colombia, ofrece datos clave y explica los servicios ecosist&eacute;micos. Tambi&eacute;n presenta una visi&oacute;n de los ecosistemas colombianos y menciona los planes de conservaci&oacute;n implementados por Corporinoquia.</p>",
+                                "description": "<p>Conoce nuestra biodiversidad en Colombia, te ofrecemos datos interesantes sobre nuestros ecosistemas y te ense&ntilde;aremos una visi&oacute;n clara de los planes de conservaci&oacute;n.</p>",
                                 "slug": "ecosistemas-vivos",
                                 "image": "contents/banners/animated_logos/Group_160.png",
                                 "audio": null,
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 11:58",
-                                "calendar_date": "06/12/2023 18:42",
+                                "calendar_date": "06/12/2023 19:31",
                                 "gallery": [
                                     {
                                         "id": 15,
@@ -2279,14 +2279,14 @@
                             {
                                 "title": "Cuencas Vivas",
                                 "subtitle": null,
-                                "description": "<p>La c&aacute;psula aborda cuencas hidrogr&aacute;ficas en Colombia, describiendo sus componentes y destacando la importancia de los POMCA implementados por Corporinoqu&iacute;a.</p>",
+                                "description": "<p>Conoceras algunas de las cuencas h&iacute;drograficas que tiene Colombia, aprenderas sobre sus componentes y la importancia de los POMCA implementados por nosotros.</p>",
                                 "slug": "cuencas-vivas",
                                 "image": "contents/banners/animated_logos/Group_161.png",
                                 "audio": null,
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "05/12/2023 08:50",
-                                "calendar_date": "06/12/2023 18:43",
+                                "calendar_date": "06/12/2023 19:33",
                                 "gallery": [
                                     {
                                         "id": 11,
@@ -3252,7 +3252,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "05/12/2023 11:51",
-                                "calendar_date": "06/12/2023 18:44",
+                                "calendar_date": "06/12/2023 19:35",
                                 "gallery": [
                                     {
                                         "id": 14,
@@ -4445,14 +4445,14 @@
                             {
                                 "title": "Amenazas Ambientales",
                                 "subtitle": null,
-                                "description": "<p>Descubre todo sobre las amenazas ambientales en la Orinoquia en esta c&aacute;psula informativa. Exploramos conceptos clave, normativas, problemas ambientales, inventario de gases, clima actual, cambio clim&aacute;tico, impactos, y medidas de adaptaci&oacute;n. &iexcl;Sum&eacute;rgete en la sostenibilidad de la regi&oacute;n en unos minutos!</p>",
+                                "description": "<p>Descubre todo sobre las amenazas ambientales en la Orinoquia en esta c&aacute;psula informativa. Exploraras conceptos claves como problemas ambientales e inventario de gases, !Sumergete en esta gran experiencia&iexcl;</p>",
                                 "slug": "amenazas-ambientales",
                                 "image": "contents/banners/animated_logos/Group_163.png",
                                 "audio": null,
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "05/12/2023 16:59",
-                                "calendar_date": "06/12/2023 18:46",
+                                "calendar_date": "06/12/2023 19:35",
                                 "gallery": [
                                     {
                                         "id": 12,
