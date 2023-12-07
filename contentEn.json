@@ -40,12 +40,12 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 08:37",
-                                "calendar_date": "06/12/2023 19:25",
+                                "calendar_date": "07/12/2023 08:29",
                                 "gallery": [
                                     {
                                         "id": 6,
                                         "slug": "conoce-la-corporacion",
-                                        "title": "Meet the corporation",
+                                        "title": "Get to know the corporation (our locations)",
                                         "type": "TOUR",
                                         "online_url": null,
                                         "offline_url": null,
@@ -1078,16 +1078,16 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 11:58",
-                                "calendar_date": "06/12/2023 19:31",
+                                "calendar_date": "07/12/2023 09:24",
                                 "gallery": [
                                     {
                                         "id": 15,
                                         "slug": "ecoturismo-en-las-reservas-de-la-sociedad-civil",
-                                        "title": "Ecotourism in civil society reserves (plains herd)",
+                                        "title": "Ecotourism in civil society reserves (Llanero ranch - Casanare)",
                                         "type": "TOUR",
                                         "online_url": null,
                                         "offline_url": null,
-                                        "video_url": "https://corporinoquitos-bucket.s3.us-east-2.amazonaws.com/media/tours/ecoturismo-en-las-reservas-de-la-sociedad-civil/tour.json",
+                                        "video_url": "https://s3.console.aws.amazon.com/s3/object/corporinoquitos-bucket?region=us-east-2&prefix=media/tours/ecoturismo-en-las-reservas-de-la-sociedad-civil-hato-llanero/tour.json",
                                         "image": "contents/post_gallery/1.Laguna.jpeg",
                                         "weight": 2173832
                                     }
@@ -2286,12 +2286,12 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "05/12/2023 08:50",
-                                "calendar_date": "06/12/2023 19:33",
+                                "calendar_date": "07/12/2023 08:31",
                                 "gallery": [
                                     {
                                         "id": 11,
                                         "slug": "senderismo-por-nuestros-paramos",
-                                        "title": "Hiking through our paramos",
+                                        "title": "Hiking through our paramos (Páramo de las Burras - Cundinamarca)",
                                         "type": "TOUR",
                                         "online_url": null,
                                         "offline_url": null,
@@ -3252,12 +3252,12 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "05/12/2023 11:51",
-                                "calendar_date": "06/12/2023 19:35",
+                                "calendar_date": "07/12/2023 08:32",
                                 "gallery": [
                                     {
                                         "id": 14,
                                         "slug": "visita-nuestros-resguardos-indigenas",
-                                        "title": "Visit our indigenous reservations",
+                                        "title": "Visit our indigenous reservations (Cumariana-Vichada community)",
                                         "type": "TOUR",
                                         "online_url": null,
                                         "offline_url": null,
@@ -4452,12 +4452,12 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "05/12/2023 16:59",
-                                "calendar_date": "06/12/2023 19:35",
+                                "calendar_date": "07/12/2023 08:33",
                                 "gallery": [
                                     {
                                         "id": 12,
                                         "slug": "conoce-nuestros-proyectos-agroforestales",
-                                        "title": "Learn about our agroforestry projects",
+                                        "title": "Learn about our agroforestry projects (cocoa and timber project-Casanare)",
                                         "type": "TOUR",
                                         "online_url": null,
                                         "offline_url": null,
