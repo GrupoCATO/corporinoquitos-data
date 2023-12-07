@@ -40,7 +40,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 08:37",
-                                "calendar_date": "07/12/2023 08:29",
+                                "calendar_date": "07/12/2023 15:04",
                                 "gallery": [
                                     {
                                         "id": 6,
@@ -52,6 +52,17 @@
                                         "video_url": "https://corporinoquitos-bucket.s3.us-east-2.amazonaws.com/media/tours/conoce-la-corporacion/conoce-la-corporacion.json",
                                         "image": "contents/post_gallery/1.SedeAraucaentrada.jpg",
                                         "weight": 6498460
+                                    },
+                                    {
+                                        "id": 17,
+                                        "slug": "prueba-2",
+                                        "title": "Image 1",
+                                        "type": "PHOTO",
+                                        "online_url": null,
+                                        "offline_url": null,
+                                        "video_url": null,
+                                        "image": "contents/post_gallery/APP.png",
+                                        "weight": 353807
                                     }
                                 ],
                                 "teacher": "contents/icon_post/2._Guia_Docente_-_Conoce_la_corporación.pdf",
@@ -1039,7 +1050,7 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 12528655
+                                "pill_size": 12882462
                             }
                         ]
                     },
@@ -5582,7 +5593,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "29/11/2023 08:46",
-                                "calendar_date": "29/11/2023 12:31",
+                                "calendar_date": "07/12/2023 15:11",
                                 "teacher": null,
                                 "student": null,
                                 "metadata": null,
@@ -13450,3 +13461,4 @@
             }
         }
     ]
+}
