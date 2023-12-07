@@ -4452,8 +4452,19 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "05/12/2023 16:59",
-                                "calendar_date": "07/12/2023 08:33",
+                                "calendar_date": "07/12/2023 11:48",
                                 "gallery": [
+                                    {
+                                        "id": 16,
+                                        "slug": "apicultura-como-emprendimiento-sostenible",
+                                        "title": "Beekeeping as a sustainable enterprise (El Morro-Yopal)",
+                                        "type": "VR",
+                                        "online_url": null,
+                                        "offline_url": null,
+                                        "video_url": "https://www.youtube.com/watch?v=9iW54L6yWKg",
+                                        "image": "contents/post_gallery/imagen_2023-12-07_103019504.png",
+                                        "weight": 1808742
+                                    },
                                     {
                                         "id": 12,
                                         "slug": "conoce-nuestros-proyectos-agroforestales",
@@ -5532,7 +5543,7 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 10025640
+                                "pill_size": 11834382
                             }
                         ]
                     },
