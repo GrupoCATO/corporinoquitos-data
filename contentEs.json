@@ -3263,12 +3263,45 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "05/12/2023 11:51",
-                                "calendar_date": "08/12/2023 10:35",
+                                "calendar_date": "08/12/2023 11:46",
                                 "gallery": [
                                     {
+                                        "id": 22,
+                                        "slug": "video-nuevo-con-metadatos",
+                                        "title": "Video Nuevo con Metadatos",
+                                        "type": "VR",
+                                        "online_url": "contents/post_gallery/Salto_de_candelas_injected.mp4",
+                                        "offline_url": null,
+                                        "video_url": null,
+                                        "image": "contents/post_gallery/1.SedeAraucaentrada_FuT9rjC.jpg",
+                                        "weight": 147870597
+                                    },
+                                    {
+                                        "id": 23,
+                                        "slug": "video-nuevo-sin-metadatados",
+                                        "title": "Video Nuevo sin Metadatados",
+                                        "type": "VR",
+                                        "online_url": "contents/post_gallery/Salto_de_candelas.mp4",
+                                        "offline_url": null,
+                                        "video_url": null,
+                                        "image": "contents/post_gallery/1.ENCIERRODEGANADO.jpg",
+                                        "weight": 143753162
+                                    },
+                                    {
+                                        "id": 21,
+                                        "slug": "video-de-tour-2",
+                                        "title": "Video De Tour 2",
+                                        "type": "VR",
+                                        "online_url": "contents/post_gallery/NOCAIMA-3D.mp4",
+                                        "offline_url": null,
+                                        "video_url": null,
+                                        "image": "contents/post_gallery/0._Templo_Parroquial_Patrimonio_Cultural_Nuestra_Señora_del_Rosar_43luEag.jpg",
+                                        "weight": 216174085
+                                    },
+                                    {
                                         "id": 20,
-                                        "slug": "visita-nuestros-resguardos-indigenas-video",
-                                        "title": "Visita nuestros resguardos indígenas Video",
+                                        "slug": "video-de-tour",
+                                        "title": "Video De Tour",
                                         "type": "VR",
                                         "online_url": "contents/post_gallery/laguna3.mp4",
                                         "offline_url": null,
@@ -4435,7 +4468,7 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 160465493
+                                "pill_size": 668263337
                             }
                         ]
                     },
