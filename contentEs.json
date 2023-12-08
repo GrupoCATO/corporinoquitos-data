@@ -3263,17 +3263,18 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "05/12/2023 11:51",
-                                "calendar_date": "08/12/2023 10:21",
+                                "calendar_date": "08/12/2023 10:35",
                                 "gallery": [
                                     {
                                         "id": 20,
                                         "slug": "visita-nuestros-resguardos-indigenas-video",
                                         "title": "Visita nuestros resguardos indígenas Video",
-                                        "type": "VIDEO",
+                                        "type": "VR",
                                         "online_url": "contents/post_gallery/laguna3.mp4",
                                         "offline_url": null,
                                         "video_url": null,
-                                        "image": "contents/post_gallery/4.Colegiodelacumunidad.jpg"
+                                        "image": "contents/post_gallery/4.Colegiodelacumunidad.jpg",
+                                        "weight": 150871904
                                     },
                                     {
                                         "id": 14,
@@ -4434,7 +4435,7 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 9593589
+                                "pill_size": 160465493
                             }
                         ]
                     },
