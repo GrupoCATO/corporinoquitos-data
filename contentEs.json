@@ -3263,7 +3263,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "05/12/2023 11:51",
-                                "calendar_date": "08/12/2023 13:27",
+                                "calendar_date": "08/12/2023 13:44",
                                 "gallery": [
                                     {
                                         "id": 25,
@@ -3275,17 +3275,6 @@
                                         "video_url": null,
                                         "image": "contents/post_gallery/1.SedeAraucaentrada_9qHDL40.jpg",
                                         "weight": 153061695
-                                    },
-                                    {
-                                        "id": 26,
-                                        "slug": "prueba-laguna-tinje-con-metadatos",
-                                        "title": "Prueba Laguna Tinje Con Metadatos",
-                                        "type": "VR",
-                                        "online_url": "contents/post_gallery/lagunatinje_rOu66xT.mp4",
-                                        "offline_url": null,
-                                        "video_url": null,
-                                        "image": "contents/post_gallery/1.SedeAraucaentrada_cGIixk8.jpg",
-                                        "weight": 153062149
                                     },
                                     {
                                         "id": 24,
@@ -4457,7 +4446,7 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 464904675
+                                "pill_size": 311842526
                             }
                         ]
                     },
