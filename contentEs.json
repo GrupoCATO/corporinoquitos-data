@@ -3263,8 +3263,19 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "05/12/2023 11:51",
-                                "calendar_date": "08/12/2023 11:46",
+                                "calendar_date": "08/12/2023 12:58",
                                 "gallery": [
+                                    {
+                                        "id": 24,
+                                        "slug": "prueba-laguna-tinje",
+                                        "title": "Prueba Laguna Tinje",
+                                        "type": "VR",
+                                        "online_url": "contents/post_gallery/lagunatinje.mp4",
+                                        "offline_url": null,
+                                        "video_url": null,
+                                        "image": "contents/post_gallery/Screenshot_3.png",
+                                        "weight": 149187242
+                                    },
                                     {
                                         "id": 22,
                                         "slug": "video-nuevo-con-metadatos",
@@ -4468,7 +4479,7 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 668263337
+                                "pill_size": 817450579
                             }
                         ]
                     },
