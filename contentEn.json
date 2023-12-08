@@ -2297,8 +2297,19 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "05/12/2023 08:50",
-                                "calendar_date": "07/12/2023 08:31",
+                                "calendar_date": "08/12/2023 14:21",
                                 "gallery": [
+                                    {
+                                        "id": 27,
+                                        "slug": "senderismo-por-nuestros-morichales",
+                                        "title": "Hiking through our waterfalls (Candelas Falls - Boyacá)",
+                                        "type": "VR",
+                                        "online_url": "contents/post_gallery/Salto_de_candelas_1920_injected.mp4",
+                                        "offline_url": null,
+                                        "video_url": "https://youtu.be/FncObM7VRM8",
+                                        "image": "contents/post_gallery/Screenshot_4.png",
+                                        "weight": 145405806
+                                    },
                                     {
                                         "id": 11,
                                         "slug": "senderismo-por-nuestros-paramos",
@@ -2315,11 +2326,11 @@
                                         "slug": "laguna-del-tinije",
                                         "title": "Tinije Lagoon",
                                         "type": "VR",
-                                        "online_url": null,
+                                        "online_url": "contents/post_gallery/laguna-tinije.mp4",
                                         "offline_url": null,
                                         "video_url": "https://youtu.be/1H4lnKzKuzQ",
                                         "image": "contents/post_gallery/Captura_de_pantalla_2023-12-06_165228.png",
-                                        "weight": 1126988
+                                        "weight": 147690223
                                     }
                                 ],
                                 "teacher": "contents/icon_post/2._Guia_Docente_-_Cuencas_Vivas.pdf",
@@ -3224,7 +3235,7 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 11080667
+                                "pill_size": 303049708
                             }
                         ]
                     },
@@ -3263,30 +3274,8 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "05/12/2023 11:51",
-                                "calendar_date": "08/12/2023 13:44",
+                                "calendar_date": "08/12/2023 13:55",
                                 "gallery": [
-                                    {
-                                        "id": 25,
-                                        "slug": "prueba-laguna-tinje-sin-metadatos",
-                                        "title": "Prueba Laguna Tinje Sin Metadatos",
-                                        "type": "VR",
-                                        "online_url": "contents/post_gallery/laguna-tinije.mp4",
-                                        "offline_url": null,
-                                        "video_url": null,
-                                        "image": "contents/post_gallery/1.SedeAraucaentrada_9qHDL40.jpg",
-                                        "weight": 153061695
-                                    },
-                                    {
-                                        "id": 24,
-                                        "slug": "prueba-laguna-tinje-con-metadatos",
-                                        "title": "Prueba Laguna Tinje",
-                                        "type": "VR",
-                                        "online_url": "contents/post_gallery/lagunatinje.mp4",
-                                        "offline_url": null,
-                                        "video_url": null,
-                                        "image": "contents/post_gallery/Screenshot_3.png",
-                                        "weight": 149187242
-                                    },
                                     {
                                         "id": 14,
                                         "slug": "visita-nuestros-resguardos-indigenas",
@@ -4446,7 +4435,7 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 311842526
+                                "pill_size": 9593589
                             }
                         ]
                     },
@@ -5973,18 +5962,18 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "05/12/2023 16:59",
-                                "calendar_date": "07/12/2023 11:48",
+                                "calendar_date": "08/12/2023 14:20",
                                 "gallery": [
                                     {
                                         "id": 16,
                                         "slug": "apicultura-como-emprendimiento-sostenible",
                                         "title": "Beekeeping as a sustainable enterprise (El Morro-Yopal)",
                                         "type": "VR",
-                                        "online_url": null,
+                                        "online_url": "contents/post_gallery/Abejas_de_cristal_1920_injected_R7QfdCd.mp4",
                                         "offline_url": null,
                                         "video_url": "https://www.youtube.com/watch?v=9iW54L6yWKg",
                                         "image": "contents/post_gallery/imagen_2023-12-07_103019504.png",
-                                        "weight": 1808742
+                                        "weight": 123999331
                                     },
                                     {
                                         "id": 12,
@@ -7064,7 +7053,7 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 11834382
+                                "pill_size": 134024971
                             }
                         ]
                     },
