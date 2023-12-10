@@ -4467,14 +4467,14 @@
                             {
                                 "title": "Waste Processing",
                                 "subtitle": null,
-                                "description": null,
+                                "description": "<p>During the development of this pill you will learn about topics such as solid waste management, its regulatory framework and its new color code, have fun learning and take care of the environment!</p>",
                                 "slug": "procesamiento-de-residuos",
                                 "image": "contents/banners/animated_logos/Group_164.png",
                                 "audio": null,
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "07/12/2023 07:08",
-                                "calendar_date": "07/12/2023 17:00",
+                                "calendar_date": "10/12/2023 13:22",
                                 "gallery": [
                                     {
                                         "id": 18,
@@ -7083,16 +7083,16 @@
                         "text_scrollspy": "#FFFFFFFF",
                         "posts": [
                             {
-                                "title": "Participación Ciudadana",
+                                "title": "Citizen Participation",
                                 "subtitle": null,
-                                "description": null,
+                                "description": "<p>Immerse yourself in a fun adventure exploring the concepts of citizen participation, along with its mechanisms and the different functions of CIDEA, learn and have fun with these contents!</p>",
                                 "slug": "participacion-ciudadana",
                                 "image": "contents/banners/animated_logos/Group_166.png",
                                 "audio": null,
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "07/12/2023 10:23",
-                                "calendar_date": "08/12/2023 08:52",
+                                "calendar_date": "10/12/2023 13:36",
                                 "gallery": [
                                     {
                                         "id": 19,
