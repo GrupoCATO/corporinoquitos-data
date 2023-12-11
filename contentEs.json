@@ -40,7 +40,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 08:37",
-                                "calendar_date": "07/12/2023 15:04",
+                                "calendar_date": "11/12/2023 11:04",
                                 "gallery": [
                                     {
                                         "id": 6,
@@ -52,17 +52,6 @@
                                         "video_url": "https://corporinoquitos-bucket.s3.us-east-2.amazonaws.com/media/tours/conoce-la-corporacion/conoce-la-corporacion.json",
                                         "image": "contents/post_gallery/1.SedeAraucaentrada.jpg",
                                         "weight": 6498460
-                                    },
-                                    {
-                                        "id": 17,
-                                        "slug": "prueba-2",
-                                        "title": "prueba 2",
-                                        "type": "PHOTO",
-                                        "online_url": null,
-                                        "offline_url": null,
-                                        "video_url": null,
-                                        "image": "contents/post_gallery/APP.png",
-                                        "weight": 353807
                                     }
                                 ],
                                 "teacher": "contents/icon_post/2._Guia_Docente_-_Conoce_la_corporación.pdf",
@@ -1050,7 +1039,7 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 12882462
+                                "pill_size": 12528655
                             }
                         ]
                     },
@@ -1089,7 +1078,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 11:58",
-                                "calendar_date": "07/12/2023 09:33",
+                                "calendar_date": "11/12/2023 11:18",
                                 "gallery": [
                                     {
                                         "id": 15,
@@ -1101,6 +1090,28 @@
                                         "video_url": "https://corporinoquitos-bucket.s3.us-east-2.amazonaws.com/media/tours/ecoturismo-en-las-reservas-de-la-sociedad-civil-hato-llanero/tour.json",
                                         "image": "contents/post_gallery/1.Laguna.jpeg",
                                         "weight": 2173832
+                                    },
+                                    {
+                                        "id": 28,
+                                        "slug": "estero-del-lipa",
+                                        "title": "Estero del lipa",
+                                        "type": "VR",
+                                        "online_url": "contents/post_gallery/Estero_del_Lipa_Full_HD.mp4",
+                                        "offline_url": null,
+                                        "video_url": "https://youtu.be/Tz7PkYvYmok",
+                                        "image": "contents/post_gallery/Screenshot_1_49REbHy.png",
+                                        "weight": 185202667
+                                    },
+                                    {
+                                        "id": 29,
+                                        "slug": "laguna-la-primavera",
+                                        "title": "Laguna la primavera",
+                                        "type": "VR",
+                                        "online_url": "contents/post_gallery/Laguna_la_primavera_Full_HD.mp4",
+                                        "offline_url": null,
+                                        "video_url": "https://youtu.be/OV4yMsenw8E",
+                                        "image": "contents/post_gallery/Screenshot_2_qJlZqXe.png",
+                                        "weight": 100002114
                                     }
                                 ],
                                 "teacher": "contents/icon_post/2._Guia_Docente_-_Nuestros_ecosistemas.pdf",
@@ -2258,7 +2269,7 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 11378851
+                                "pill_size": 296583632
                             }
                         ]
                     },
@@ -2297,19 +2308,8 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "05/12/2023 08:50",
-                                "calendar_date": "08/12/2023 14:21",
+                                "calendar_date": "11/12/2023 11:27",
                                 "gallery": [
-                                    {
-                                        "id": 27,
-                                        "slug": "senderismo-por-nuestros-morichales",
-                                        "title": "Senderismos por nuestras cascadas (Salto Candelas - Boyacá)",
-                                        "type": "VR",
-                                        "online_url": "contents/post_gallery/Salto_de_candelas_1920_injected.mp4",
-                                        "offline_url": null,
-                                        "video_url": "https://youtu.be/FncObM7VRM8",
-                                        "image": "contents/post_gallery/Screenshot_4.png",
-                                        "weight": 145405806
-                                    },
                                     {
                                         "id": 11,
                                         "slug": "senderismo-por-nuestros-paramos",
@@ -2322,15 +2322,26 @@
                                         "weight": 4712132
                                     },
                                     {
-                                        "id": 9,
-                                        "slug": "laguna-del-tinije",
-                                        "title": "Laguna del Tinije",
+                                        "id": 27,
+                                        "slug": "laguna-el-tinije",
+                                        "title": "Laguna el Tinije",
                                         "type": "VR",
-                                        "online_url": "contents/post_gallery/laguna-tinije.mp4",
+                                        "online_url": "contents/post_gallery/Laguna_el_Tinije_Full_HD.mp4",
                                         "offline_url": null,
-                                        "video_url": "https://youtu.be/1H4lnKzKuzQ",
-                                        "image": "contents/post_gallery/Captura_de_pantalla_2023-12-06_165228.png",
-                                        "weight": 147690223
+                                        "video_url": "https://youtu.be/Kux_lXzmRZY",
+                                        "image": "contents/post_gallery/Screenshot_3.png",
+                                        "weight": 148144493
+                                    },
+                                    {
+                                        "id": 9,
+                                        "slug": "salto-de-candelas",
+                                        "title": "Salto de Candelas",
+                                        "type": "VR",
+                                        "online_url": "contents/post_gallery/Salto_de_candelas_Full_HD.mp4",
+                                        "offline_url": null,
+                                        "video_url": "https://youtu.be/a4mzSCnAr9Y",
+                                        "image": "contents/post_gallery/Screenshot_4_71aURPx.png",
+                                        "weight": 143802474
                                     }
                                 ],
                                 "teacher": "contents/icon_post/2._Guia_Docente_-_Cuencas_Vivas.pdf",
@@ -3235,7 +3246,7 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 303028821
+                                "pill_size": 301879759
                             }
                         ]
                     },
@@ -6024,19 +6035,8 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "05/12/2023 16:59",
-                                "calendar_date": "08/12/2023 14:20",
+                                "calendar_date": "11/12/2023 11:30",
                                 "gallery": [
-                                    {
-                                        "id": 16,
-                                        "slug": "apicultura-como-emprendimiento-sostenible",
-                                        "title": "Apicultura como emprendimiento sostenible (corregimiento el Morro-Yopal)",
-                                        "type": "VR",
-                                        "online_url": "contents/post_gallery/Abejas_de_cristal_1920_injected_R7QfdCd.mp4",
-                                        "offline_url": null,
-                                        "video_url": "https://www.youtube.com/watch?v=9iW54L6yWKg",
-                                        "image": "contents/post_gallery/imagen_2023-12-07_103019504.png",
-                                        "weight": 123999331
-                                    },
                                     {
                                         "id": 12,
                                         "slug": "conoce-nuestros-proyectos-agroforestales",
@@ -6047,6 +6047,17 @@
                                         "video_url": "https://corporinoquitos-bucket.s3.us-east-2.amazonaws.com/media/tours/conoce-nuestros-proyectos-agroforestales/tour.json",
                                         "image": "contents/post_gallery/1.EntradaaCultivos.jpeg",
                                         "weight": 4408976
+                                    },
+                                    {
+                                        "id": 16,
+                                        "slug": "avejas-de-cristal",
+                                        "title": "Avejas de cristal",
+                                        "type": "VR",
+                                        "online_url": "contents/post_gallery/Abejas_de_cristralFull_HD.mp4",
+                                        "offline_url": null,
+                                        "video_url": "https://youtu.be/sH6vhZtUrpU",
+                                        "image": "contents/post_gallery/Screenshot_5.png",
+                                        "weight": 122775945
                                     }
                                 ],
                                 "teacher": "contents/icon_post/2._Guia_Docente_-_Amenazas_vulnerabilidades_y_cambio_climatico.pdf",
@@ -7115,7 +7126,7 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 134024971
+                                "pill_size": 132801585
                             }
                         ]
                     },
