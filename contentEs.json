@@ -40,7 +40,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 08:37",
-                                "calendar_date": "11/12/2023 18:20",
+                                "calendar_date": "20/12/2023 17:25",
                                 "gallery": [
                                     {
                                         "id": 6,
@@ -59,7 +59,7 @@
                                 "metadata": "contents/metadata/4._Metadatos_-_Conoce_la_corporación.pdf",
                                 "result": null,
                                 "sources": "contents/fonts/5._Fuentes_-_Conoce_la_corporación.pdf",
-                                "credit": null,
+                                "credit": "contents/credits/6._Creditos.pdf",
                                 "pill": [
                                     {
                                         "title": "CONTENIDOS",
@@ -1039,7 +1039,7 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 19027125
+                                "pill_size": 19270652
                             }
                         ]
                     },
@@ -1078,12 +1078,12 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "04/12/2023 11:58",
-                                "calendar_date": "11/12/2023 18:24",
+                                "calendar_date": "20/12/2023 17:25",
                                 "gallery": [
                                     {
                                         "id": 15,
                                         "slug": "ecoturismo-en-las-reservas-de-la-sociedad-civil",
-                                        "title": "Ecoturismo en las reservas de la sociedad civil (hato llanero - Casanare)",
+                                        "title": "Ecoturismo en las reservas de la sociedad civil (Hato Llanero - Casanare)",
                                         "type": "TOUR",
                                         "online_url": null,
                                         "offline_url": null,
@@ -1094,7 +1094,7 @@
                                     {
                                         "id": 28,
                                         "slug": "estero-del-lipa",
-                                        "title": "Estero del lipa",
+                                        "title": "Estero de Lipa",
                                         "type": "VR",
                                         "online_url": "contents/post_gallery/Estero_del_Lipa_Full_HD.mp4",
                                         "offline_url": null,
@@ -1105,7 +1105,7 @@
                                     {
                                         "id": 29,
                                         "slug": "laguna-la-primavera",
-                                        "title": "Laguna la primavera",
+                                        "title": "Laguna La Primavera",
                                         "type": "VR",
                                         "online_url": "contents/post_gallery/Laguna_la_primavera_Full_HD.mp4",
                                         "offline_url": null,
@@ -1119,7 +1119,7 @@
                                 "metadata": "contents/metadata/4._Metadatos_-_Nuestros_ecosistemas.pdf",
                                 "result": null,
                                 "sources": "contents/fonts/5._Fuentes_-_Nuestros_ecosistemas.pdf",
-                                "credit": null,
+                                "credit": "contents/credits/6._Creditos_28oROrD.pdf",
                                 "pill": [
                                     {
                                         "title": "CONTENIDOS",
@@ -2269,7 +2269,7 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 298757463
+                                "pill_size": 299000990
                             }
                         ]
                     },
@@ -2308,12 +2308,12 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "05/12/2023 08:50",
-                                "calendar_date": "11/12/2023 18:26",
+                                "calendar_date": "20/12/2023 17:24",
                                 "gallery": [
                                     {
                                         "id": 11,
                                         "slug": "senderismo-por-nuestros-paramos",
-                                        "title": "Senderismo por nuestros paramos (páramo de las Burras - Cundinamarca)",
+                                        "title": "Senderismo por nuestros paramos (Páramo de las Burras - Cundinamarca)",
                                         "type": "TOUR",
                                         "online_url": null,
                                         "offline_url": null,
@@ -2337,11 +2337,11 @@
                                         "slug": "salto-de-candelas",
                                         "title": "Salto de Candelas",
                                         "type": "VR",
-                                        "online_url": "contents/post_gallery/Salto_de_candelas_Full_HD.mp4",
+                                        "online_url": "contents/post_gallery/Salto_de_candelas_FHD.mp4",
                                         "offline_url": null,
-                                        "video_url": "https://youtu.be/a4mzSCnAr9Y",
+                                        "video_url": "https://youtu.be/PJfZ0BExnBk",
                                         "image": "contents/post_gallery/Screenshot_4_71aURPx.png",
-                                        "weight": 143802474
+                                        "weight": 127364605
                                     }
                                 ],
                                 "teacher": "contents/icon_post/2._Guia_Docente_-_Cuencas_Vivas.pdf",
@@ -2349,7 +2349,7 @@
                                 "metadata": "contents/metadata/4._Metadatos_-_Cuencas_Vivas.pdf",
                                 "result": null,
                                 "sources": "contents/fonts/5._Fuentes_-_Cuencas_Vivas.pdf",
-                                "credit": null,
+                                "credit": "contents/credits/6._Creditos_w4yklJj.pdf",
                                 "pill": [
                                     {
                                         "title": "CONTENIDOS",
@@ -3029,37 +3029,6 @@
                                         "weight": 0
                                     },
                                     {
-                                        "id": "249",
-                                        "question_type": "7",
-                                        "question": "En esta actividad evaluativa, deberás seleccionar y arrastrar las 5 (cinco) grandes regiones hidrográficas y ubicarlas en el mapa de Colombia según corresponda su ubicación geográfica:",
-                                        "audio": null,
-                                        "answer": null,
-                                        "option_1": "Magdalena",
-                                        "option_2": "Caribe",
-                                        "option_3": "Orinoco",
-                                        "option_4": "Amazonas",
-                                        "option_5": null,
-                                        "option_6": null,
-                                        "false": "False",
-                                        "true": "True",
-                                        "option_image_1": null,
-                                        "option_image_2": "contents/questions/preguntas12-3.png",
-                                        "option_image_3": "contents/questions/preguntas12-4.png",
-                                        "option_image_4": "contents/questions/preguntas12-1.png",
-                                        "option_image_5": null,
-                                        "option_image_6": null,
-                                        "category_1": null,
-                                        "category_2": null,
-                                        "category_3": null,
-                                        "category_4": null,
-                                        "category_5": null,
-                                        "category_6": null,
-                                        "category_7": null,
-                                        "category_8": null,
-                                        "slug_question": "e12-cuencas-vivases",
-                                        "weight": 38842
-                                    },
-                                    {
                                         "id": "251",
                                         "question_type": "7",
                                         "question": "En esta actividad evaluativa, deberás seleccionar las partes de una cuenca hidrográfica, posterior ello deberás arrastrarlas hacia la imagen según donde corresponda su ubicación.",
@@ -3244,9 +3213,40 @@
                                         "category_8": null,
                                         "slug_question": "e18-cuencas-vivases",
                                         "weight": 0
+                                    },
+                                    {
+                                        "id": "249",
+                                        "question_type": "7",
+                                        "question": "En esta actividad evaluativa, deberás seleccionar y arrastrar las 5 (cinco) grandes regiones hidrográficas y ubicarlas en el mapa de Colombia según corresponda su ubicación geográfica:",
+                                        "audio": null,
+                                        "answer": null,
+                                        "option_1": "Magdalena",
+                                        "option_2": "Caribe",
+                                        "option_3": "Orinoco",
+                                        "option_4": "Amazonas",
+                                        "option_5": null,
+                                        "option_6": null,
+                                        "false": "False",
+                                        "true": "True",
+                                        "option_image_1": "contents/questions/preguntas12-2_StJIAIB.png",
+                                        "option_image_2": "contents/questions/preguntas12-3.png",
+                                        "option_image_3": "contents/questions/preguntas12-4.png",
+                                        "option_image_4": "contents/questions/preguntas12-1.png",
+                                        "option_image_5": null,
+                                        "option_image_6": null,
+                                        "category_1": null,
+                                        "category_2": null,
+                                        "category_3": null,
+                                        "category_4": null,
+                                        "category_5": null,
+                                        "category_6": null,
+                                        "category_7": null,
+                                        "category_8": null,
+                                        "slug_question": "e12-cuencas-vivases",
+                                        "weight": 59729
                                     }
                                 ],
-                                "pill_size": 306591891
+                                "pill_size": 290418436
                             }
                         ]
                     },
@@ -3285,12 +3285,12 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "05/12/2023 11:51",
-                                "calendar_date": "11/12/2023 18:27",
+                                "calendar_date": "20/12/2023 17:24",
                                 "gallery": [
                                     {
                                         "id": 14,
                                         "slug": "visita-nuestros-resguardos-indigenas",
-                                        "title": "Visita nuestros resguardos indígenas (comunidad Cumariana-Vichada)",
+                                        "title": "Visita nuestros resguardos indígenas (Comunidad Cumariana-Vichada)",
                                         "type": "TOUR",
                                         "online_url": null,
                                         "offline_url": null,
@@ -3304,7 +3304,7 @@
                                 "metadata": "contents/metadata/4._Metadatos_-_Comunidades_Indigenas.pdf",
                                 "result": null,
                                 "sources": "contents/fonts/5._Fuentes_-_Comunidades_Indigenas.pdf",
-                                "credit": null,
+                                "credit": "contents/credits/6._Creditos_axeKF1g.pdf",
                                 "pill": [
                                     {
                                         "title": "CONTENIDOS",
@@ -4446,7 +4446,7 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 14551854
+                                "pill_size": 14795381
                             }
                         ]
                     },
@@ -4485,7 +4485,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "07/12/2023 07:08",
-                                "calendar_date": "11/12/2023 18:28",
+                                "calendar_date": "20/12/2023 17:23",
                                 "gallery": [
                                     {
                                         "id": 18,
@@ -4497,6 +4497,17 @@
                                         "video_url": "https://corporinoquitos-bucket.s3.us-east-2.amazonaws.com/media/tours/conoce-la-gestion-de-residuos-solidos/tour.json",
                                         "image": "contents/post_gallery/1.plantaderesiduos1.png",
                                         "weight": 71428124
+                                    },
+                                    {
+                                        "id": 30,
+                                        "slug": "recuperadores-de-residuos",
+                                        "title": "Recuperadores de residuos",
+                                        "type": "VR",
+                                        "online_url": "contents/post_gallery/Recuperadores_de_residuos_Fhd.mp4",
+                                        "offline_url": null,
+                                        "video_url": "https://youtu.be/Hav3SKEfLe8",
+                                        "image": "contents/post_gallery/Screenshot_6.png",
+                                        "weight": 186223037
                                     }
                                 ],
                                 "teacher": "contents/icon_post/2._Guia_Docente_-_Gestión_integral_de_residuos_.pdf",
@@ -4504,7 +4515,7 @@
                                 "metadata": "contents/metadata/4._Metadatos_-_Gestión_integral_de_residuos.pdf",
                                 "result": null,
                                 "sources": "contents/fonts/5._Fuentes_-_Gestión_integral_de_residuos.pdf",
-                                "credit": null,
+                                "credit": "contents/credits/6._Creditos_l3dAVpR.pdf",
                                 "pill": [
                                     {
                                         "title": "CONTENIDOS",
@@ -5996,7 +6007,7 @@
                                         "weight": 201403
                                     }
                                 ],
-                                "pill_size": 78043170
+                                "pill_size": 264509734
                             }
                         ]
                     },
@@ -6035,7 +6046,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "05/12/2023 16:59",
-                                "calendar_date": "12/12/2023 11:11",
+                                "calendar_date": "20/12/2023 17:23",
                                 "gallery": [
                                     {
                                         "id": 12,
@@ -6051,7 +6062,7 @@
                                     {
                                         "id": 16,
                                         "slug": "abejas-de-cristal",
-                                        "title": "Abejas de cristal",
+                                        "title": "Abejas de Cristal",
                                         "type": "VR",
                                         "online_url": "contents/post_gallery/Abejas_de_cristralFull_HD.mp4",
                                         "offline_url": null,
@@ -6065,7 +6076,7 @@
                                 "metadata": "contents/metadata/4._Metadatos_-_Amenazas_vulnerabilidades_y_cambio_climatico.pdf",
                                 "result": null,
                                 "sources": "contents/fonts/5._Fuentes_-_Amenazas_vulnerabilidades_y_cambio_climatico.pdf",
-                                "credit": null,
+                                "credit": "contents/credits/6._Creditos_YEgyWiw.pdf",
                                 "pill": [
                                     {
                                         "title": "CONTENIDOS",
@@ -7126,7 +7137,7 @@
                                         "weight": 0
                                     }
                                 ],
-                                "pill_size": 137210561
+                                "pill_size": 137454088
                             }
                         ]
                     },
@@ -7165,7 +7176,7 @@
                                 "parent": null,
                                 "tags": [],
                                 "creation_date": "07/12/2023 10:23",
-                                "calendar_date": "11/12/2023 18:32",
+                                "calendar_date": "20/12/2023 17:26",
                                 "gallery": [
                                     {
                                         "id": 19,
@@ -7184,7 +7195,7 @@
                                 "metadata": "contents/metadata/4._Metadatos_-_Participacion_Ciudadana.pdf",
                                 "result": null,
                                 "sources": "contents/fonts/5._Fuentes_-_Participacion_Ciudadana.pdf",
-                                "credit": null,
+                                "credit": "contents/credits/6._Creditos_5haKg7h.pdf",
                                 "pill": [
                                     {
                                         "title": "CONTENIDOS",
@@ -8074,7 +8085,7 @@
                                         "weight": 269060
                                     }
                                 ],
-                                "pill_size": 15924310
+                                "pill_size": 16167837
                             }
                         ]
                     },
