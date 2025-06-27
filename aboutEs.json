@@ -1,52 +1,52 @@
 [
+  {
+    "page_metadata": {
+      "title": "Acerca de",
+      "description": "",
+      "slug": "acerca-de",
+      "sections": [
         {
-            "page_metadata": {
-                "title": "Acerca de",
-                "description": "",
-                "slug": "acerca-de",
-                "sections": [
-                    {
-                        "title": "Acerca de",
-                        "description": "",
-                        "background_image": null,
-                        "format_image": null,
-                        "color_section": "#FFFFFFFF",
-                        "color_post": "#FFFFFFFF",
-                        "title_section_color": "#000000FF",
-                        "title_post_color": "#000000FF",
-                        "text_post_color": "#000000FF",
-                        "slug": "acerca-de",
-                        "component": null,
-                        "align": "RIGHT",
-                        "lines_to_show": "1",
-                        "title_visibility": true,
-                        "subtitle_visibility": false,
-                        "logo_visibility": "1",
-                        "tag_visibility": false,
-                        "description_visibility": false,
-                        "gallery_visibility": false,
-                        "scrollspy": false,
-                        "color_scrollspy": "#FFFFFFFF",
-                        "title_scrollspy": "#FFFFFFFF",
-                        "text_scrollspy": "#FFFFFFFF",
-                        "posts": [
-                            {
-                                "title": "Versión 1.0.",
-                                "subtitle": null,
-                                "description": "<p style=\"text-align:justify\">&iexcl;Conoce y aprende de la Orinoqu&iacute;a! viviendo una experiencia inmersiva de realidad virtual y realidad aumentada, disfruta y aprende de &nbsp;los lugares y proyectos medioambientales m&aacute;s importantes de nuestro territorio y convi&eacute;rtete en un defensor activo de nuestro planeta.&nbsp;</p>\r\n\r\n<p style=\"text-align:justify\">Tambi&eacute;n te invitamos a descargar el juego interactivo &quot;Corpo Desaf&iacute;o&quot;, una emocionante odisea en la que te enfrentar&aacute;s a pruebas de conocimiento, desafiando a tus amigos para ganar puntos y rescatar los animales de la Orinoqu&iacute;a.</p>\r\n\r\n<table align=\"center\" border=\"0\" style=\"width:150px\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td><img alt=\"\" src=\"https://corporinoquitos-bucket.s3.us-east-2.amazonaws.com/media/pictures/Corpodeafio+4+1.png\" style=\"height:63px; width:150px\" /></td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<table align=\"center\" border=\"0\" style=\"width:250px\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td><img alt=\"\" src=\"https://corporinoquitos-bucket.s3.us-east-2.amazonaws.com/media/pictures/Group+185.png\" style=\"height:50px; padding:4px; width:150px\" /></td>\r\n\t\t\t<td><img alt=\"\" src=\"https://corporinoquitos-bucket.s3.us-east-2.amazonaws.com/media/pictures/Group+186.png\" style=\"height:50px; padding:4px; width:150px\" /></td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<table align=\"center\" border=\"0\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:250px\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"text-align:center\"><img alt=\"\" src=\"https://corporinoquitos-bucket.s3.us-east-2.amazonaws.com/media/pictures/Group+172.png\" style=\"height:29px; width:250px\" /></td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>",
-                                "slug": "acerca-de",
-                                "image": null,
-                                "audio": null,
-                                "parent": null,
-                                "tags": [],
-                                "creation_date": "27/11/2023 16:46",
-                                "calendar_date": "07/12/2023 15:11",
-                                "pill_size": 0
-                            }
-                        ]
-                    }
-                ],
-                "project": null
+          "title": "Acerca de",
+          "description": "",
+          "background_image": null,
+          "format_image": null,
+          "color_section": "#FFFFFFFF",
+          "color_post": "#FFFFFFFF",
+          "title_section_color": "#000000FF",
+          "title_post_color": "#000000FF",
+          "text_post_color": "#000000FF",
+          "slug": "acerca-de",
+          "component": null,
+          "align": "RIGHT",
+          "lines_to_show": "1",
+          "title_visibility": true,
+          "subtitle_visibility": false,
+          "logo_visibility": "1",
+          "tag_visibility": false,
+          "description_visibility": false,
+          "gallery_visibility": false,
+          "scrollspy": false,
+          "color_scrollspy": "#FFFFFFFF",
+          "title_scrollspy": "#FFFFFFFF",
+          "text_scrollspy": "#FFFFFFFF",
+          "posts": [
+            {
+              "title": "Versión 1.0.",
+              "subtitle": null,
+              "description": "<p style=\"text-align:justify\">&iexcl;Conoce y aprende de la Orinoqu&iacute;a! viviendo una experiencia inmersiva de realidad virtual y realidad aumentada, disfruta y aprende de &nbsp;los lugares y proyectos medioambientales m&aacute;s importantes de nuestro territorio y convi&eacute;rtete en un defensor activo de nuestro planeta.&nbsp;</p>\r\n\r\n<p style=\"text-align:justify\">Tambi&eacute;n te invitamos a descargar el juego interactivo &quot;Corpo Desaf&iacute;o&quot;, una emocionante odisea en la que te enfrentar&aacute;s a pruebas de conocimiento, desafiando a tus amigos para ganar puntos y rescatar los animales de la Orinoqu&iacute;a.</p>\r\n\r\n<table align=\"center\" border=\"0\" style=\"width:150px\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td><img alt=\"\" src=\"https://storage.googleapis.com/corporinoquitos-bucket/media/pictures/Corpodeafio%204%201.png\" style=\"height:63px; width:150px\" /></td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<table align=\"center\" border=\"0\" style=\"width:250px\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td><img alt=\"\" src=\"https://storage.googleapis.com/corporinoquitos-bucket/media/pictures/Group%20185.png\" style=\"height:50px; padding:4px; width:150px\" /></td>\r\n\t\t\t<td><img alt=\"\" src=\"https://storage.googleapis.com/corporinoquitos-bucket/media/pictures/Group%20186.png\" style=\"height:50px; padding:4px; width:150px\" /></td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<table align=\"center\" border=\"0\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:250px\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"text-align:center\"><img alt=\"\" src=\"https://storage.googleapis.com/corporinoquitos-bucket/media/pictures/Group%20172.png\" style=\"height:29px; width:250px\" /></td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>",
+              "slug": "acerca-de",
+              "image": null,
+              "audio": null,
+              "parent": null,
+              "tags": [],
+              "creation_date": "27/11/2023 16:46",
+              "calendar_date": "07/12/2023 15:11",
+              "pill_size": 0
             }
+          ]
         }
-    ]
+      ],
+      "project": null
+    }
+  }
+]
